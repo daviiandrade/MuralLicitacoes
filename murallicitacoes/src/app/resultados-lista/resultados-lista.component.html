@@ -1,0 +1,63 @@
+<div class="meu-container" [style.visibility]="realizada ? 'visible' : 'hidden'">
+    <div>
+        <div class="card">
+            <p-table responsiveLayout="scroll" [columns]="cols" [value]="realizada" [paginator]="totalRegistrosEncontrados()" [rows]="10" [showCurrentPageReport]="false" [rowsPerPageOptions]="[10, 25, 50]">
+
+                <ng-template pTemplate="header" let-columns>
+                    <div class="mensagem-topo">
+                        <div class="alinhamento-botao-topo">
+                            <span class="mensagem-span" id="span-total-resultados">{{totalRegistrosEncontrados()}} resultados encontrados.</span>
+                        </div>
+                        <div class="alinhamento-botao-topo">
+                            <div class="p-d-flex" *ngIf=" totalRegistrosEncontrados() > 0">
+                                <button type="button" pButton icon="pi pi-file-excel" class="excelButton" (click)="exportExcel()">
+                                    <span class="material-icons-outlined">Exportar para Excel <span class="space"></span> </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </ng-template>
+                <ng-template pTemplate="body" let-realizada let-columns="columns" id="tblRealizada">
+                    <div class="p-card-dados">
+                        <div class="p-dados documento">
+                            <div class="flex-dados">
+                                <div class="flex-item-1-dados">
+                                    <p>
+                                        <strong>Situação: </strong>
+                                        <strong [ngStyle]="{ color: realizada.situacao === 'Homologada' ? 'green' : 'black'}">
+                                          {{ realizada.situacao }}
+                                      </strong>
+                                    </p>
+                                    <p> <strong>Jurisdicionado: </strong> {{ realizada.jurisdicionado }} </p>
+                                    <p> <strong>Número: </strong> {{ realizada.numero }}</p>
+                                    <p> <strong>Modalidade: </strong> {{ realizada.modalidade }} </p>
+                                    <button type="button" pButton icon="pi pi-file-pdf" class="bntPDF">Exibir edital PDF<span class="space"></span></button>
+                                </div>
+
+                                <div class="flex-item-2-dados">
+                                    <p> <strong>Valor: </strong> {{ getFormattedPrice(realizada.valorHomologado)}} </p>
+                                    <p> <strong>Data Homologação: </strong> {{ realizada.dataHomologacao }} </p>
+                                    <p>
+                                        <strong>Protocolo: </strong>
+                                        <a href="{{ realizada.linkProtocoloTCE }}" target="_blank"> {{ realizada.protocoloTCE }} </a>
+                                    </p>
+                                    <p><strong>Objeto: </strong> {{ substituiCaractereUnicode(realizada.objeto) }}</p>
+                                </div>
+                            </div>
+                            <p-accordion>
+                                <p-accordionTab header="Proponentes: {{ realizada.propostas.length }} resultado(s)" [selected]="false" style="font-size: 15px;">
+                                    <div class="propDados" *ngFor="let proposta of realizada.propostas">
+                                        <p><strong>Proponente: </strong> {{ proposta.nomeProponente }}</p>
+                                        <p><strong>CPF/CNPJ: </strong> {{ proposta.identificacaoProponente | mask:"000.000.000-00 || 00.000.000/0000-00" }} </p>
+                                        <p><strong>Situação Proposta: </strong> {{ proposta.situacaoProposta }}</p>
+                                        <p><strong>Valor Proposta: </strong> <span class="result"> {{ proposta.valorProposta | currency : 'BRL' }}</span></p>
+                                    </div>
+                                </p-accordionTab>
+                            </p-accordion>
+                        </div>
+                    </div>
+                </ng-template>
+            </p-table>
+        </div>
+    </div>
+</div>

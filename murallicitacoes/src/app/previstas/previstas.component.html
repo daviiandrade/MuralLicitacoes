@@ -1,0 +1,114 @@
+<body>
+
+    <app-toolbar [titulo]="'LICITAÇÕES PREVISTAS'" style="font-size: 18px"></app-toolbar>
+    <div class="row">
+        <div class="card">
+            <span class="avisos"> <i class="material-icons">warning</i> <strong>  AVISOS</strong></span>
+        </div>
+        <div class="col">
+            <p class="card-text">
+                As licitações são informadas pelos jurisdicionados no prazo de 3 dias corridos após a publicação oficial. <br> Todas as informações são de inteira responsabilidade dos jurisdicionados. <br> Esta listagem contempla as situações em que o
+                certame licitatório ainda não ocorreu.
+            </p>
+        </div>
+        <div>
+            <button pButton type="button" (click)="navigateToRealizadas()" class="buttonb2" label="Listar licitações realizadas"></button>
+        </div>
+    </div>
+
+    <div class="meu-container">
+        <div class="geral">
+            <p-accordion>
+                <p-accordionTab header="Preencha o formulário" [selected]="true" style="font-size: 15px">
+                    <p-messages [(value)]="messageError" [enableService]="false"></p-messages>
+
+                    <div class="linha">
+                        <div class="container">
+                            <!--Seletor ente-->
+                            <div class="col-sm-6">
+                                <label for="inputState"><h3>Selecione o ente:</h3></label>
+                                <p-multiSelect (onChange)="exibirOpcoesJurisdicionados(ente)" [maxSelectedLabels]="3" [options]="entes" [(ngModel)]="ente" placeholder="Ente" optionLabel="nome" optionValue="id" display="chip" [style]="{ width: '95%' }">
+                                </p-multiSelect>
+                            </div>
+
+                            <!--Seletor juri-->
+                            <div class="col-sm-6">
+                                <label for="inputState"><h3>Selecione o jurisdicionado:</h3></label>
+                                <p-multiSelect [options]="jurisFiltrados" [(ngModel)]="jurisdicionado" placeholder="Jurisdicionado" optionLabel="jurisdicionadonome" optionValue="juriscidionadoid" [disabled]="desabilitaOpcaoJurisdicionados" display="chip" [style]="{ width: '95%' }">
+                                </p-multiSelect>
+                            </div>
+
+                            <!--Seletor modalidade-->
+                            <div class="col-sm-6">
+                                <label for="inputState"><h3>Selecione a modalidade:</h3></label>
+                                <p-multiSelect [options]="modalidades" [(ngModel)]="modalidadeLicitacao" placeholder="Modalidade" optionLabel="nome" optionValue="id" display="chip" [style]="{ width: '95%' }">
+                                </p-multiSelect>
+                            </div>
+                        </div>
+                        <!--div coluna [esquerda]-->
+
+                        <div class="container">
+                            <div class="col-sm-6">
+                                <label for="inputState"><h3>Digite o objeto:</h3></label>
+                                <input type="text" id="float-input" placeholder="Objeto" pInputText name="" [(ngModel)]="obj" [style]="{ width: '95%' }">
+                            </div>
+
+                            <!--Data certame-->
+                            <div class="col-sm-6">
+                                <label for="inputState"><h3>Data certame entre:</h3></label>
+                                <div class="linha linha-calendario">
+                                    <div class="linha">
+                                        <div class="item-calendario item-calendario-topo ui-calendar">
+                                            <p-calendar class="calendar-control" view="date" [(ngModel)]="data1" dateFormat="dd/mm/yy" [showIcon]="true" [showButtonBar]="true" [yearNavigator]="true"></p-calendar>
+                                        </div>
+                                    </div>
+
+                                    <div class="linha">
+                                        <div class="item-calendario">
+                                            <p-calendar view="date" [(ngModel)]="data2" dateFormat="dd/mm/yy" [showIcon]="true" [showButtonBar]="true" [yearNavigator]="true"></p-calendar>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Certame nos próximos-->
+                            <div class="col-sm-6">
+                                <label for="inputState"><h3>Selecione o certame:</h3></label>
+                                <p-dropdown inputId="dropdown" [options]="certames" [style]="{'width':'280px'}" [(ngModel)]="infoc" optionLabel="value" placeholder="Certame nos próximos"></p-dropdown>
+                            </div>
+                        </div>
+                        <!--div coluna [direita]-->
+                    </div>
+
+                    <div class="div-botoes">
+                        <button pButton type="button" (click)="pesquisarLicitacoesPrevistas()" class="buttonb3 btn-procurar" label="Procurar"></button>
+                        <button pButton type="button" (click)="limparCampos()" class="buttonb3" label="Limpar"></button>
+                    </div>
+                </p-accordionTab>
+            </p-accordion>
+            <div class="progress" *ngIf="isShowing">
+                <span class="progress-bar">
+                <p-progressBar
+                  mode="indeterminate"
+                  [style]="{
+                    height: '6px',
+                    top: '10px',
+                    background: '#9c0d0d',
+                    color: '#9c0d0d'
+                  }"
+                ></p-progressBar>
+              </span>
+            </div>
+        </div>
+    </div>
+    <div class="meu-container">
+        <div class="geral">
+            <div class="listagem">
+                <app-previstas-lista [prevista]="listaPrevistas"></app-previstas-lista>
+            </div>
+        </div>
+    </div>
+    <!--div meu-container-->
+
+    <app-footer></app-footer>
+</body>

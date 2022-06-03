@@ -1,0 +1,36 @@
+pipeline {
+  agent any
+  environment {
+        WORKSPACE_DIR  = pwd()
+      }
+  stages {
+    stage('Checkout Projects') {
+      agent any
+
+      steps {
+        echo 'Checkout dos projetos do Git...'
+        echo "${WORKSPACE_DIR}"
+
+        dir(path: "${WORKSPACE_DIR}") {
+          git(credentialsId: 'deployment_assistent', branch: 'master', url: 'ssh://git@192.168.3.235:7999/contram/murallicitacoes-ui.git')
+        }
+
+        sshagent(credentials: ['deployment_assistent']) {
+	  		sh 'cd ${WORKSPACE_DIR} && git pull origin master'
+
+		    }
+
+      }
+    }
+    stage('Deploy') {
+      steps {
+        sshagent(credentials: ['sisrh_teste']) {
+	      sh 'mkdir -p artefacts && tar -C ${WORKSPACE_DIR} -zcvf artefacts/murallicitacoes-ui.tar --exclude=*tmp --exclude=.git* --exclude=./artefacts .'
+
+          sh """scp -v -o StrictHostKeyChecking=no ${WORKSPACE_DIR}/artefacts/murallicitacoes-ui.tar administrador@10.10.5.83:/home/administrador/docker/murallicitacoes-docker-compose/"""
+          sh 'ssh -tt administrador@10.10.5.83 "./deployment_murallicitacoes_docker.sh murallicitacoes-ui.tar"'
+        }
+      }
+    }
+  }
+}

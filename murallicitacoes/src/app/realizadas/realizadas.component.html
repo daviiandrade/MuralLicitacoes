@@ -1,0 +1,217 @@
+<body>
+    <!-- Toolbar -->
+    <app-toolbar
+      [titulo]="'LICITAÇÕES REALIZADAS'"
+      style="font-size: 17px"
+    ></app-toolbar>
+
+    <div class="top-card"></div>
+
+    <div class="meu-container">
+      <div class="geral">
+        <button
+          pButton
+          type="button"
+          (click)="navigateToPrevistas()"
+          class="buttonLP"
+          label="Listar licitações previstas"
+        ></button>
+
+        <p-accordion>
+          <p-accordionTab
+            header="Preencha o formulário"
+            style="font-size: 15px"
+            [selected]="true"
+          >
+            <p-messages
+              [(value)]="messageError"
+              [enableService]="false"
+            ></p-messages>
+
+            <div class="linha">
+              <div class="container">
+                <!--Seletor ente-->
+                <div class="col-sm-6">
+                  <label for="inputState"><h3>Selecione o ente:</h3></label>
+                  <p-multiSelect
+                    (onChange)="exibirOpcoesJurisdicionados(ente)"
+                    [options]="entes"
+                    [(ngModel)]="ente"
+                    placeholder="Ente"
+                    optionLabel="nome"
+                    optionValue="id"
+                    [maxSelectedLabels]="3"
+                    display="chip"
+                    [style]="{ width: '95%' }"
+                  >
+                  </p-multiSelect>
+                </div>
+                <!--Seletor juri-->
+                <div class="col-sm-6">
+                  <label for="inputState"
+                    ><h3>Selecione o jurisdicionado:</h3></label
+                  >
+                  <p-multiSelect
+                    [options]="jurisFiltrados"
+                    [(ngModel)]="jurisdicionado"
+                    placeholder="Jurisdicionado"
+                    optionLabel="jurisdicionadonome"
+                    optionValue="juriscidionadoid"
+                    [disabled]="desabilitaOpcaoJurisdicionados"
+                    [maxSelectedLabels]="3"
+                    display="chip"
+                    [style]="{ width: '95%' }"
+                  >
+                  </p-multiSelect>
+                </div>
+
+                <!--Seletor modalidade-->
+                <div class="col-sm-6">
+                  <label for="inputState"
+                    ><h3>Selecione a modalidade:</h3></label
+                  >
+                  <p-multiSelect
+                    [options]="modalidades"
+                    [(ngModel)]="modalidadeLicitacao"
+                    placeholder="Modalidade"
+                    optionLabel="nome"
+                    optionValue="id"
+                    [maxSelectedLabels]="3"
+                    display="chip"
+                    [style]="{ width: '95%' }"
+                  ></p-multiSelect>
+                </div>
+                <!--Seletor objeto-->
+                <div class="col-sm-6">
+                  <label for="inputState"><h3>Digite o objeto:</h3></label>
+                  <input
+                    type="text"
+                    id="float-input"
+                    placeholder="Objeto"
+                    pInputText
+                    name=""
+                    [(ngModel)]="obj"
+                    [style]="{ width: '95%' }"
+                  />
+                </div>
+              </div>
+              <!--div coluna [esquerda]-->
+
+              <div class="container">
+                <!--Homologada entre-->
+                <div class="col-sm-6">
+                  <label for="inputState"><h3>Homologada entre:</h3></label>
+                  <div class="linha linha-calendario">
+                    <div class="linha">
+                      <div class="item-calendario item-calendario-topo">
+                        <p-calendar
+                          class="calendar-control"
+                          view="date"
+                          [(ngModel)]="data1"
+                          dateFormat="dd/mm/yy"
+                          [showIcon]="true"
+                          [showButtonBar]="true"
+                          [yearNavigator]="true"
+                        ></p-calendar>
+                      </div>
+                    </div>
+
+                    <div class="linha">
+                      <div class="item-calendario">
+                        <p-calendar
+                          view="date"
+                          [(ngModel)]="data2"
+                          dateFormat="dd/mm/yy"
+                          [showIcon]="true"
+                          [showButtonBar]="true"
+                          [yearNavigator]="true"
+                        ></p-calendar>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <!--Nome de empresa ou pessoa física-->
+                <div>
+                  <div class="col-sm-6">
+                    <label for="inputState"
+                      ><h3>Digite o nome do proponente:</h3></label
+                    >
+                    <input
+                      type="text"
+                      id="float-input"
+                      placeholder="Nome do Proponente"
+                      pInputText
+                      name=""
+                      [(ngModel)]="nomeProponente"
+                      [style]="{ width: '95%' }"
+                    />
+                  </div>
+                </div>
+                <!--CPF OU CNPJ-->
+                <div>
+                  <div class="col-sm-6">
+                    <label for="inputState"
+                      ><h3>Digite o CPF ou CNPJ:</h3></label
+                    >
+                    <input
+                      type="text"
+                      id="cpf"
+                      placeholder="CPF OU CNPJ"
+                      pInputText
+                      name=""
+                      [(ngModel)]="identificacaoProponente"
+                      mask="000.000.000-00||00.000.000/0000-00"
+                    />
+                  </div>
+                </div>
+              </div>
+              <!--div coluna [direita]-->
+            </div>
+            <div class="div-botoes">
+              <button
+                pButton
+                type="button"
+                (click)="pesquisarLicitacoesRealizadas()"
+                class="buttonb2 btn-procurar"
+                label="Procurar"
+              ></button>
+              <button
+                pButton
+                type="button"
+                (click)="limparCampos()"
+                class="buttonb2"
+                label="Limpar"
+              ></button>
+            </div>
+          </p-accordionTab>
+        </p-accordion>
+        <div class="progress" *ngIf="isShowing">
+          <span class="progress-bar">
+            <p-progressBar
+              mode="indeterminate"
+              [style]="{
+                height: '6px',
+                top: '10px',
+                background: '#9c0d0d',
+                color: '#9c0d0d'
+              }"
+            ></p-progressBar>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="meu-container">
+      <div class="geral">
+        <div class="listagem">
+          <app-resultados-lista
+            [realizada]="listaRealizadas"
+          ></app-resultados-lista>
+        </div>
+      </div>
+    </div>
+    <!--div meu-container-->
+
+    <app-footer></app-footer>
+
+</body>

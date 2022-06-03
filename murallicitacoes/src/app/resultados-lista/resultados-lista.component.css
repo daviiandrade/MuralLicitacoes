@@ -1,0 +1,164 @@
+.mensagem-topo {
+    display: block;
+    width: 95%;
+    margin-left: 2%;
+}
+
+.mensagem-span {
+    font-size: 1rem;
+    color: #808084;
+    margin-top: 10px;
+}
+
+.p-card-dados {
+    margin: 20px 10px;
+}
+
+.p-dados {
+    font-size: 1.2rem;
+    color: #000;
+    /*border: 1px solid black;*/
+    margin: 5px 10px;
+    padding: 10px;
+}
+
+.p-dados p a {
+    text-decoration: none;
+    color: blue;
+}
+
+.p-dados p a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.card-dados {
+    border: 'solid 1px black';
+}
+
+.documento {
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+}
+
+.flex-dados {
+    display: flex;
+}
+
+.flex-item-1-dados {
+    flex: 1;
+    font-size: 17.8px;
+}
+
+.flex-item-2-dados {
+    flex: 1;
+    font-size: 17.8px;
+}
+
+.excelButton {
+    color: white;
+    background-color: #157D34;
+    border: #157D34;
+    height: 30px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 3px;
+}
+
+.bntPDF {
+    color: white;
+    background-color: #9c0d0d;
+    border: #a93030;
+    height: 30px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.bntProponentes {
+    color: white;
+    background-color: #9c0d0d;
+    border: #a93030;
+    height: 30px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.propDados {
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.div-botoes {
+    margin: 10px 0 30px 0;
+    width: 100%;
+}
+
+.alinhamento-botao-topo {
+    display: flex;
+    align-items: center;
+    width: 95%;
+}
+
+.p-d-flex {
+  overflow-y: hidden;
+  margin-top: 5px;
+  border-radius: 3px;
+}
+
+.buttonb {
+    background-color: #333;
+    color: #eee;
+    border: none;
+    padding: 7px;
+    margin: 10px;
+    font-size: 1rem;
+}
+
+.meu-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.linha {
+    display: flex;
+}
+
+.coluna {
+    flex: 1;
+}
+
+.geral {
+    display: flex;
+    align-items: center;
+    width: 90%;
+}
+
+.card {
+    margin-bottom: 15px;
+    display: flex;
+}
+
+.space {
+    margin: 0 5px;
+}
+
+.result{
+    color: #9c0d0d;
+}
+
+@media screen and (max-width: 768px) {
+    .flex-dados {
+        display: block;
+    }
+}

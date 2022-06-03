@@ -1,0 +1,42 @@
+ /*Configurações Toolbar*/
+ 
+ .toolbar {
+     position: static;
+     top: 0;
+     left: 0;
+     right: 0;
+     height: 60px;
+     display: flex;
+     align-items: center;
+     background-color: #1c1c1d;
+     color: white;
+     font-weight: 550;
+ }
+ 
+ .toolbar img {
+     max-width: 50px;
+     max-height: 50px;
+     width: auto;
+     height: auto;
+     margin-right: 30px;
+     margin-left: 15px;
+ }
+ 
+ a,
+ a:visited {
+     color: #fcfa8a;
+     text-decoration: none;
+     margin-right: 5px;
+ }
+ 
+ a:hover {
+     color: #da1010;
+ }
+ 
+ .spacer {
+     flex: 1;
+ }
+ 
+ .navegar-site {
+     color: white;
+ }

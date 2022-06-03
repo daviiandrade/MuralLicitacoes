@@ -1,0 +1,17 @@
+FROM node:12.22.0 as node
+RUN mkdir /app
+WORKDIR /app
+COPY . .
+
+RUN npm config set unsafe-perm true
+RUN npm install -g @angular/cli
+RUN npm version patch --force
+RUN npm cache clean --force
+RUN npm install
+
+RUN ng build
+
+
+FROM nginx:1.14.1-alpine
+COPY --from=node /app/dist/murallicitacoes-ui /usr/share/nginx/html
+RUN chown nginx:nginx /usr/share/nginx/html/*

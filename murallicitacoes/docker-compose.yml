@@ -1,0 +1,12 @@
+version: "3"
+services:
+ murallicitacoes:
+  build:
+   context: ./
+   dockerfile: DockerFile
+  image: tcepb/murallicitacoes-ui
+  container_name: murallicitacoes-ui
+  volumes:
+   - /etc/localtime:/etc/localtime:ro
+  ports:
+   - 4207:80

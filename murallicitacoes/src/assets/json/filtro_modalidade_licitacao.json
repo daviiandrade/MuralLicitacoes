@@ -1,0 +1,111 @@
+{
+  "data": [
+  {
+		"id" : 10,
+		"descricao" : "Adesão a Ata de Registro de Preços"
+	},
+	{
+		"id" : 12,
+		"descricao" : "Chamada Pública"
+	},
+	{
+		"id" : 3,
+		"descricao" : "Concorrência"
+	},
+	{
+		"id" : 23,
+		"descricao" : "Concorrência (Lei 14.133\/21)"
+	},
+	{
+		"id" : 4,
+		"descricao" : "Concurso"
+	},
+	{
+		"id" : 25,
+		"descricao" : "Concurso (Lei 14.133\/21)"
+	},
+	{
+		"id" : 19,
+		"descricao" : "Contratação Emergencial de Organização (Art. 12, II da Lei N� 9.454\/2011)"
+	},
+	{
+		"id" : 1,
+		"descricao" : "Convite"
+	},
+	{
+		"id" : 9,
+		"descricao" : "Dispensa (Art. 24 - Lei 8.666\/93)"
+	},
+	{
+		"id" : 21,
+		"descricao" : "Dispensa (Lei 14.133\/21)"
+	},
+	{
+		"id" : 27,
+		"descricao" : "Dispensa (Medida Provis�ria 1.047\/21)"
+	},
+	{
+		"id" : 20,
+		"descricao" : "Dispensa COVID-19 (Art. 4� da Lei 13.979\/2020)"
+	},
+	{
+		"id" : 11,
+		"descricao" : "Dispensada (Art. 17 - Lei 8.666\/93)"
+	},
+	{
+		"id" : 8,
+		"descricao" : "Inexigibilidade"
+	},
+	{
+		"id" : 22,
+		"descricao" : "Inexigibilidade (Lei 14.133\/21)"
+	},
+	{
+		"id" : 5,
+		"descricao" : "Leil�o"
+	},
+	{
+		"id" : 15,
+		"descricao" : "Licita��o da Lei N� 13.303\/2016"
+	},
+	{
+		"id" : 16,
+		"descricao" : "Licita��o da Lei N� 13.303\/2016 (Art. 29 ou 30)"
+	},
+	{
+		"id" : 17,
+		"descricao" : "Licita��o Internacional (GN 2349-9)"
+	},
+	{
+		"id" : 18,
+		"descricao" : "Licita��o Internacional (GN 2350-9)"
+	},
+	{
+		"id" : 28,
+		"descricao" : "Licita��o Internacional N�o Competitiva"
+	},
+	{
+		"id" : 24,
+		"descricao" : "Preg�o (Lei 14.133\/21)"
+	},
+	{
+		"id" : 26,
+		"descricao" : "Preg�o (Medida Provis�ria 1.047\/21)"
+	},
+	{
+		"id" : 7,
+		"descricao" : "Preg�o Eletr�nico"
+	},
+	{
+		"id" : 6,
+		"descricao" : "Preg�o Presencial"
+	},
+	{
+		"id" : 14,
+		"descricao" : "RDC - Regime Diferenciado de Contrata��es P�blicas"
+	},
+	{
+		"id" : 2,
+		"descricao" : "Tomada de Pre�os"
+	}
+]}

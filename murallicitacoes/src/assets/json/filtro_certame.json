@@ -1,0 +1,10 @@
+{
+  "data": [
+    { "key" : 0, "value" : "5 dias" },
+    { "key" : 1, "value" : "10 dias" },
+    { "key" : 2, "value" : "30 dias" },
+    { "key" : 3, "value" : "60 dias" },
+    { "key" : 4, "value" : "mais de 60 dias" }
+
+  ]
+}

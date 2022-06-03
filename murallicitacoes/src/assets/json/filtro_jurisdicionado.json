@@ -1,0 +1,4488 @@
+{
+  "data": [
+  {
+		"jurisdicionadoid" : 20,
+		"jurisdicionadonome" : "Câmara Municipal de Água Branca",
+		"codigoente" : 1
+	},
+	{
+		"jurisdicionadoid" : 11422,
+		"jurisdicionadonome" : "Fundo Municipal de Saúde de Água Branca",
+		"codigoente" : 1
+	},
+	{
+		"jurisdicionadoid" : 12188,
+		"jurisdicionadonome" : "Instituto de Previdência dos Servidores Municipais do Poder Executivo e Legislativo de �gua Branca",
+		"codigoente" : 1
+	},
+	{
+		"jurisdicionadoid" : 586,
+		"jurisdicionadonome" : "Prefeitura Municipal de Água Branca",
+		"codigoente" : 1
+	},
+	{
+		"jurisdicionadoid" : 21,
+		"jurisdicionadonome" : "Câmara Municipal de Aguiar",
+		"codigoente" : 2
+	},
+	{
+		"jurisdicionadoid" : 587,
+		"jurisdicionadonome" : "Prefeitura Municipal de Aguiar",
+		"codigoente" : 2
+	},
+	{
+		"jurisdicionadoid" : 110756,
+		"jurisdicionadonome" : "Auditoria Cultural - Caminhos do Frio",
+		"codigoente" : 3
+	},
+	{
+		"jurisdicionadoid" : 22,
+		"jurisdicionadonome" : "Câmara Municipal de Alagoa Grande",
+		"codigoente" : 3
+	},
+	{
+		"jurisdicionadoid" : 403,
+		"jurisdicionadonome" : "Fundo Municipal de Saúde de Alagoa Grande",
+		"codigoente" : 3
+	},
+	{
+		"jurisdicionadoid" : 588,
+		"jurisdicionadonome" : "Prefeitura Municipal de Alagoa Grande",
+		"codigoente" : 3
+	},
+	{
+		"jurisdicionadoid" : 23853,
+		"jurisdicionadonome" : "Superintendência Municipal de Trânsito de Alagoa Grande",
+		"codigoente" : 3
+	},
+	{
+		"jurisdicionadoid" : 23,
+		"jurisdicionadonome" : "Câmara Municipal de Alagoa Nova",
+		"codigoente" : 4
+	},
+	{
+		"jurisdicionadoid" : 526,
+		"jurisdicionadonome" : "Instituto de Previdência de Alagoa Nova",
+		"codigoente" : 4
+	},
+	{
+		"jurisdicionadoid" : 589,
+		"jurisdicionadonome" : "Prefeitura Municipal de Alagoa Nova",
+		"codigoente" : 4
+	},
+	{
+		"jurisdicionadoid" : 24,
+		"jurisdicionadonome" : "Câmara Municipal de Alagoinha",
+		"codigoente" : 5
+	},
+	{
+		"jurisdicionadoid" : 15611,
+		"jurisdicionadonome" : "Fundo Municipal de Saúde de Alagoinha",
+		"codigoente" : 5
+	},
+	{
+		"jurisdicionadoid" : 489,
+		"jurisdicionadonome" : "Instituto de Prev. do Município de Alagoinha",
+		"codigoente" : 5
+	},
+	{
+		"jurisdicionadoid" : 590,
+		"jurisdicionadonome" : "Prefeitura Municipal de Alagoinha",
+		"codigoente" : 5
+	},
+	{
+		"jurisdicionadoid" : 870,
+		"jurisdicionadonome" : "Servi�o Aut�nomo de �gua e Esgoto de Alagoinha",
+		"codigoente" : 5
+	},
+	{
+		"jurisdicionadoid" : 25,
+		"jurisdicionadonome" : "C�mara Municipal de Alcantil",
+		"codigoente" : 6
+	},
+	{
+		"jurisdicionadoid" : 591,
+		"jurisdicionadonome" : "Prefeitura Municipal de Alcantil",
+		"codigoente" : 6
+	},
+	{
+		"jurisdicionadoid" : 26,
+		"jurisdicionadonome" : "C�mara Municipal de Algod�o de Janda�ra",
+		"codigoente" : 7
+	},
+	{
+		"jurisdicionadoid" : 493,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. de Algod�o de Janda�ra",
+		"codigoente" : 7
+	},
+	{
+		"jurisdicionadoid" : 592,
+		"jurisdicionadonome" : "Prefeitura Municipal de Algod�o de Janda�ra",
+		"codigoente" : 7
+	},
+	{
+		"jurisdicionadoid" : 27,
+		"jurisdicionadonome" : "C�mara Municipal de Alhandra",
+		"codigoente" : 8
+	},
+	{
+		"jurisdicionadoid" : 547,
+		"jurisdicionadonome" : "Instituto de Seguridade Social do Municipio de Alhandra",
+		"codigoente" : 8
+	},
+	{
+		"jurisdicionadoid" : 593,
+		"jurisdicionadonome" : "Prefeitura Municipal de Alhandra",
+		"codigoente" : 8
+	},
+	{
+		"jurisdicionadoid" : 28,
+		"jurisdicionadonome" : "C�mara Municipal de Amparo",
+		"codigoente" : 9
+	},
+	{
+		"jurisdicionadoid" : 594,
+		"jurisdicionadonome" : "Prefeitura Municipal de Amparo",
+		"codigoente" : 9
+	},
+	{
+		"jurisdicionadoid" : 29,
+		"jurisdicionadonome" : "C�mara Municipal de Aparecida",
+		"codigoente" : 10
+	},
+	{
+		"jurisdicionadoid" : 595,
+		"jurisdicionadonome" : "Prefeitura Municipal de Aparecida",
+		"codigoente" : 10
+	},
+	{
+		"jurisdicionadoid" : 30,
+		"jurisdicionadonome" : "C�mara Municipal de Ara�ag�",
+		"codigoente" : 11
+	},
+	{
+		"jurisdicionadoid" : 15513,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Ara�agi",
+		"codigoente" : 11
+	},
+	{
+		"jurisdicionadoid" : 596,
+		"jurisdicionadonome" : "Prefeitura Municipal de Ara�agi",
+		"codigoente" : 11
+	},
+	{
+		"jurisdicionadoid" : 31,
+		"jurisdicionadonome" : "C�mara Municipal de Arara",
+		"codigoente" : 12
+	},
+	{
+		"jurisdicionadoid" : 553,
+		"jurisdicionadonome" : "Instituto Municipal de Previd�ncia de Arara",
+		"codigoente" : 12
+	},
+	{
+		"jurisdicionadoid" : 597,
+		"jurisdicionadonome" : "Prefeitura Municipal de Arara",
+		"codigoente" : 12
+	},
+	{
+		"jurisdicionadoid" : 32,
+		"jurisdicionadonome" : "C�mara Municipal de Araruna",
+		"codigoente" : 13
+	},
+	{
+		"jurisdicionadoid" : 24037,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Araruna",
+		"codigoente" : 13
+	},
+	{
+		"jurisdicionadoid" : 598,
+		"jurisdicionadonome" : "Prefeitura Municipal de Araruna",
+		"codigoente" : 13
+	},
+	{
+		"jurisdicionadoid" : 33,
+		"jurisdicionadonome" : "C�mara Municipal de Areia",
+		"codigoente" : 14
+	},
+	{
+		"jurisdicionadoid" : 71539,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Areia",
+		"codigoente" : 14
+	},
+	{
+		"jurisdicionadoid" : 599,
+		"jurisdicionadonome" : "Prefeitura Municipal de Areia",
+		"codigoente" : 14
+	},
+	{
+		"jurisdicionadoid" : 34,
+		"jurisdicionadonome" : "C�mara Municipal de Areia de Bara�nas",
+		"codigoente" : 15
+	},
+	{
+		"jurisdicionadoid" : 40392,
+		"jurisdicionadonome" : "Fundo Municipal de Assit�ncia Social de Areia de Bara�nas",
+		"codigoente" : 15
+	},
+	{
+		"jurisdicionadoid" : 23999,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Areia de Bara�nas",
+		"codigoente" : 15
+	},
+	{
+		"jurisdicionadoid" : 600,
+		"jurisdicionadonome" : "Prefeitura Municipal de Areia de Bara�nas",
+		"codigoente" : 15
+	},
+	{
+		"jurisdicionadoid" : 35,
+		"jurisdicionadonome" : "C�mara Municipal de Areial",
+		"codigoente" : 16
+	},
+	{
+		"jurisdicionadoid" : 601,
+		"jurisdicionadonome" : "Prefeitura Municipal de Areial",
+		"codigoente" : 16
+	},
+	{
+		"jurisdicionadoid" : 36,
+		"jurisdicionadonome" : "C�mara Municipal de Aroeiras",
+		"codigoente" : 17
+	},
+	{
+		"jurisdicionadoid" : 8551,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Aroeiras",
+		"codigoente" : 17
+	},
+	{
+		"jurisdicionadoid" : 602,
+		"jurisdicionadonome" : "Prefeitura Municipal de Aroeiras",
+		"codigoente" : 17
+	},
+	{
+		"jurisdicionadoid" : 37,
+		"jurisdicionadonome" : "C�mara Municipal de Assun��o",
+		"codigoente" : 18
+	},
+	{
+		"jurisdicionadoid" : 603,
+		"jurisdicionadonome" : "Prefeitura Municipal de Assun��o",
+		"codigoente" : 18
+	},
+	{
+		"jurisdicionadoid" : 38,
+		"jurisdicionadonome" : "C�mara Municipal de Baia da Trai��o",
+		"codigoente" : 20
+	},
+	{
+		"jurisdicionadoid" : 604,
+		"jurisdicionadonome" : "Prefeitura Municipal de Baia da Trai��o",
+		"codigoente" : 20
+	},
+	{
+		"jurisdicionadoid" : 869,
+		"jurisdicionadonome" : "Servi�o Aut�nomo de �gua e Esgoto da Baia da Trai��o",
+		"codigoente" : 20
+	},
+	{
+		"jurisdicionadoid" : 39,
+		"jurisdicionadonome" : "C�mara Municipal de Bananeiras",
+		"codigoente" : 21
+	},
+	{
+		"jurisdicionadoid" : 1013,
+		"jurisdicionadonome" : "Instituto Bananeirense de Previd�ncia Municipal IBPEM",
+		"codigoente" : 21
+	},
+	{
+		"jurisdicionadoid" : 605,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bananeiras",
+		"codigoente" : 21
+	},
+	{
+		"jurisdicionadoid" : 40,
+		"jurisdicionadonome" : "C�mara Municipal de Bara�na",
+		"codigoente" : 22
+	},
+	{
+		"jurisdicionadoid" : 606,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bara�na",
+		"codigoente" : 22
+	},
+	{
+		"jurisdicionadoid" : 41,
+		"jurisdicionadonome" : "C�mara Municipal de Barra de Santa Rosa",
+		"codigoente" : 23
+	},
+	{
+		"jurisdicionadoid" : 336,
+		"jurisdicionadonome" : "Fundo de Aposentadoria e Pens�o de Barra de Santa Rosa",
+		"codigoente" : 23
+	},
+	{
+		"jurisdicionadoid" : 607,
+		"jurisdicionadonome" : "Prefeitura Municipal de Barra de Santa Rosa",
+		"codigoente" : 23
+	},
+	{
+		"jurisdicionadoid" : 42,
+		"jurisdicionadonome" : "C�mara Municipal de Barra de Santana",
+		"codigoente" : 24
+	},
+	{
+		"jurisdicionadoid" : 608,
+		"jurisdicionadonome" : "Prefeitura Municipal de Barra de Santana",
+		"codigoente" : 24
+	},
+	{
+		"jurisdicionadoid" : 43,
+		"jurisdicionadonome" : "C�mara Municipal de Barra de S�o Miguel",
+		"codigoente" : 25
+	},
+	{
+		"jurisdicionadoid" : 609,
+		"jurisdicionadonome" : "Prefeitura Municipal de Barra de S�o Miguel",
+		"codigoente" : 25
+	},
+	{
+		"jurisdicionadoid" : 44,
+		"jurisdicionadonome" : "C�mara Municipal de Bayeux",
+		"codigoente" : 26
+	},
+	{
+		"jurisdicionadoid" : 137739,
+		"jurisdicionadonome" : "Departamento de Tr�nsito de Bayeux",
+		"codigoente" : 26
+	},
+	{
+		"jurisdicionadoid" : 406,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Bayeux",
+		"codigoente" : 26
+	},
+	{
+		"jurisdicionadoid" : 521,
+		"jurisdicionadonome" : "Instituto de Prev. e Assist�ncia dos Serv. Pub. do Mun. de Bayeux",
+		"codigoente" : 26
+	},
+	{
+		"jurisdicionadoid" : 610,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bayeux",
+		"codigoente" : 26
+	},
+	{
+		"jurisdicionadoid" : 857,
+		"jurisdicionadonome" : "Secretaria de Sa�de do Munic�pio de Bayeux",
+		"codigoente" : 26
+	},
+	{
+		"jurisdicionadoid" : 45,
+		"jurisdicionadonome" : "C�mara Municipal de Bel�m",
+		"codigoente" : 27
+	},
+	{
+		"jurisdicionadoid" : 11977,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Bel�m",
+		"codigoente" : 27
+	},
+	{
+		"jurisdicionadoid" : 11843,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Bel�m",
+		"codigoente" : 27
+	},
+	{
+		"jurisdicionadoid" : 535,
+		"jurisdicionadonome" : "Instituto de Previd�ncia dos Servidores Municipais de Bel�m",
+		"codigoente" : 27
+	},
+	{
+		"jurisdicionadoid" : 611,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bel�m",
+		"codigoente" : 27
+	},
+	{
+		"jurisdicionadoid" : 46,
+		"jurisdicionadonome" : "C�mara Municipal de Bel�m do Brejo do Cruz",
+		"codigoente" : 28
+	},
+	{
+		"jurisdicionadoid" : 488,
+		"jurisdicionadonome" : "Instituto de Prev. do Mun. de Bel�m do Brejo do Cruz",
+		"codigoente" : 28
+	},
+	{
+		"jurisdicionadoid" : 612,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bel�m do Brejo do Cruz",
+		"codigoente" : 28
+	},
+	{
+		"jurisdicionadoid" : 47,
+		"jurisdicionadonome" : "C�mara Municipal de Bernardino Batista",
+		"codigoente" : 29
+	},
+	{
+		"jurisdicionadoid" : 613,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bernardino Batista",
+		"codigoente" : 29
+	},
+	{
+		"jurisdicionadoid" : 48,
+		"jurisdicionadonome" : "C�mara Municipal de Boa Ventura",
+		"codigoente" : 30
+	},
+	{
+		"jurisdicionadoid" : 11334,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Boa Ventura",
+		"codigoente" : 30
+	},
+	{
+		"jurisdicionadoid" : 614,
+		"jurisdicionadonome" : "Prefeitura Municipal de Boa Ventura",
+		"codigoente" : 30
+	},
+	{
+		"jurisdicionadoid" : 49,
+		"jurisdicionadonome" : "C�mara Municipal de Boa Vista",
+		"codigoente" : 31
+	},
+	{
+		"jurisdicionadoid" : 353,
+		"jurisdicionadonome" : "Fundo dos Servidores Municipais de Boa Vista",
+		"codigoente" : 31
+	},
+	{
+		"jurisdicionadoid" : 615,
+		"jurisdicionadonome" : "Prefeitura Municipal de Boa Vista",
+		"codigoente" : 31
+	},
+	{
+		"jurisdicionadoid" : 50,
+		"jurisdicionadonome" : "C�mara Municipal de Bom Jesus",
+		"codigoente" : 32
+	},
+	{
+		"jurisdicionadoid" : 24036,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Bom Jesus",
+		"codigoente" : 32
+	},
+	{
+		"jurisdicionadoid" : 513,
+		"jurisdicionadonome" : "Instituto de Prev. e Assist�ncia do Munic�pio de Bom Jesus",
+		"codigoente" : 32
+	},
+	{
+		"jurisdicionadoid" : 616,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bom Jesus",
+		"codigoente" : 32
+	},
+	{
+		"jurisdicionadoid" : 51,
+		"jurisdicionadonome" : "C�mara Municipal de Bom Sucesso",
+		"codigoente" : 33
+	},
+	{
+		"jurisdicionadoid" : 617,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bom Sucesso",
+		"codigoente" : 33
+	},
+	{
+		"jurisdicionadoid" : 52,
+		"jurisdicionadonome" : "C�mara Municipal de Bonito de Santa F�",
+		"codigoente" : 34
+	},
+	{
+		"jurisdicionadoid" : 503,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Municipal Bonitense",
+		"codigoente" : 34
+	},
+	{
+		"jurisdicionadoid" : 618,
+		"jurisdicionadonome" : "Prefeitura Municipal de Bonito de Santa F�",
+		"codigoente" : 34
+	},
+	{
+		"jurisdicionadoid" : 53,
+		"jurisdicionadonome" : "C�mara Municipal de Boqueir�o",
+		"codigoente" : 35
+	},
+	{
+		"jurisdicionadoid" : 619,
+		"jurisdicionadonome" : "Prefeitura Municipal de Boqueir�o",
+		"codigoente" : 35
+	},
+	{
+		"jurisdicionadoid" : 54,
+		"jurisdicionadonome" : "C�mara Municipal de Borborema",
+		"codigoente" : 36
+	},
+	{
+		"jurisdicionadoid" : 620,
+		"jurisdicionadonome" : "Prefeitura Municipal de Borborema",
+		"codigoente" : 36
+	},
+	{
+		"jurisdicionadoid" : 55,
+		"jurisdicionadonome" : "C�mara Municipal de Brejo do Cruz",
+		"codigoente" : 38
+	},
+	{
+		"jurisdicionadoid" : 530,
+		"jurisdicionadonome" : "Instituto de Previd�ncia do Municipio de Brejo do Cruz",
+		"codigoente" : 38
+	},
+	{
+		"jurisdicionadoid" : 621,
+		"jurisdicionadonome" : "Prefeitura Municipal de Brejo do Cruz",
+		"codigoente" : 38
+	},
+	{
+		"jurisdicionadoid" : 56,
+		"jurisdicionadonome" : "C�mara Municipal de Brejo dos Santos",
+		"codigoente" : 39
+	},
+	{
+		"jurisdicionadoid" : 622,
+		"jurisdicionadonome" : "Prefeitura Municipal de Brejo dos Santos",
+		"codigoente" : 39
+	},
+	{
+		"jurisdicionadoid" : 57,
+		"jurisdicionadonome" : "C�mara Municipal de Caapor�",
+		"codigoente" : 40
+	},
+	{
+		"jurisdicionadoid" : 18116,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Caapor�",
+		"codigoente" : 40
+	},
+	{
+		"jurisdicionadoid" : 525,
+		"jurisdicionadonome" : "Instituto de Prev. Social dos Servidores de Caapor�",
+		"codigoente" : 40
+	},
+	{
+		"jurisdicionadoid" : 623,
+		"jurisdicionadonome" : "Prefeitura Municipal de Caapor�",
+		"codigoente" : 40
+	},
+	{
+		"jurisdicionadoid" : 871,
+		"jurisdicionadonome" : "Servi�o Auton�mo de �gua e Esgoto de Cupissura - Caapor�",
+		"codigoente" : 40
+	},
+	{
+		"jurisdicionadoid" : 58,
+		"jurisdicionadonome" : "C�mara Municipal de Cabaceiras",
+		"codigoente" : 41
+	},
+	{
+		"jurisdicionadoid" : 125655,
+		"jurisdicionadonome" : "Fundo Municipal de Apoio ao Empreendedorismo - FUNDO EMPREENDER CABACEIRAS",
+		"codigoente" : 41
+	},
+	{
+		"jurisdicionadoid" : 624,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cabaceiras",
+		"codigoente" : 41
+	},
+	{
+		"jurisdicionadoid" : 59,
+		"jurisdicionadonome" : "C�mara Municipal de Cabedelo",
+		"codigoente" : 42
+	},
+	{
+		"jurisdicionadoid" : 57268,
+		"jurisdicionadonome" : "Fundo de Gest�o, Desenvolvimento e Moderniza��o da Procuradoria Geral do Munic�pio de Cabedelo- FUNDERC",
+		"codigoente" : 42
+	},
+	{
+		"jurisdicionadoid" : 80903,
+		"jurisdicionadonome" : "Fundo Municipal de Apoio aos Pequenos Neg�cios de Cabedelo - FMAPN",
+		"codigoente" : 42
+	},
+	{
+		"jurisdicionadoid" : 40277,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cabedelo",
+		"codigoente" : 42
+	},
+	{
+		"jurisdicionadoid" : 99718,
+		"jurisdicionadonome" : "Fundo Municipal do Meio Ambiente de Cabedelo",
+		"codigoente" : 42
+	},
+	{
+		"jurisdicionadoid" : 498,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Mun. de Cabedelo",
+		"codigoente" : 42
+	},
+	{
+		"jurisdicionadoid" : 625,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cabedelo",
+		"codigoente" : 42
+	},
+	{
+		"jurisdicionadoid" : 60,
+		"jurisdicionadonome" : "C�mara Municipal de Cachoeira dos �ndios",
+		"codigoente" : 43
+	},
+	{
+		"jurisdicionadoid" : 482,
+		"jurisdicionadonome" : "Instituto Cachoeirense de Previd�ncia Municipal",
+		"codigoente" : 43
+	},
+	{
+		"jurisdicionadoid" : 626,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cachoeira dos �ndios",
+		"codigoente" : 43
+	},
+	{
+		"jurisdicionadoid" : 61,
+		"jurisdicionadonome" : "C�mara Municipal de Cacimba de Areia",
+		"codigoente" : 44
+	},
+	{
+		"jurisdicionadoid" : 114968,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Cacimba de Areia",
+		"codigoente" : 44
+	},
+	{
+		"jurisdicionadoid" : 114967,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cacimba de Areia",
+		"codigoente" : 44
+	},
+	{
+		"jurisdicionadoid" : 627,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cacimba de Areia",
+		"codigoente" : 44
+	},
+	{
+		"jurisdicionadoid" : 62,
+		"jurisdicionadonome" : "C�mara Municipal de Cacimba de Dentro",
+		"codigoente" : 45
+	},
+	{
+		"jurisdicionadoid" : 39956,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cacimba de Dentro",
+		"codigoente" : 45
+	},
+	{
+		"jurisdicionadoid" : 628,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cacimba de Dentro",
+		"codigoente" : 45
+	},
+	{
+		"jurisdicionadoid" : 63,
+		"jurisdicionadonome" : "C�mara Municipal de Cacimbas",
+		"codigoente" : 46
+	},
+	{
+		"jurisdicionadoid" : 11332,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cacimbas",
+		"codigoente" : 46
+	},
+	{
+		"jurisdicionadoid" : 11333,
+		"jurisdicionadonome" : "Instituto de Previd�ncia do Mun�cipio de Cacimbas",
+		"codigoente" : 46
+	},
+	{
+		"jurisdicionadoid" : 629,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cacimbas",
+		"codigoente" : 46
+	},
+	{
+		"jurisdicionadoid" : 64,
+		"jurisdicionadonome" : "C�mara Municipal de Cai�ara",
+		"codigoente" : 47
+	},
+	{
+		"jurisdicionadoid" : 630,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cai�ara",
+		"codigoente" : 47
+	},
+	{
+		"jurisdicionadoid" : 65,
+		"jurisdicionadonome" : "C�mara Municipal de Cajazeiras",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 23990,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Cajazeiras",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 410,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cajazeiras",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 514,
+		"jurisdicionadonome" : "Instituto de Prev. e Assist�ncia do Munic�pio de Cajazeiras",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 10126,
+		"jurisdicionadonome" : "Instituto Materno Infantil J�lio Maria Bandeira de Melo",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 631,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cajazeiras",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 882,
+		"jurisdicionadonome" : "Superintend�ncia Cajazeirense de Transporte e Tr�nsito",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 17426,
+		"jurisdicionadonome" : "Superintend�ncia Municipal de Meio Ambiente de Cajazeiras",
+		"codigoente" : 48
+	},
+	{
+		"jurisdicionadoid" : 66,
+		"jurisdicionadonome" : "C�mara Municipal de Cajazeirinhas",
+		"codigoente" : 49
+	},
+	{
+		"jurisdicionadoid" : 11517,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cajazeirinhas",
+		"codigoente" : 49
+	},
+	{
+		"jurisdicionadoid" : 632,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cajazeirinhas",
+		"codigoente" : 49
+	},
+	{
+		"jurisdicionadoid" : 67,
+		"jurisdicionadonome" : "C�mara Municipal de Caldas Brand�o",
+		"codigoente" : 50
+	},
+	{
+		"jurisdicionadoid" : 63409,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Caldas Brand�o",
+		"codigoente" : 50
+	},
+	{
+		"jurisdicionadoid" : 507,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. P�blicos de Caldas Brand�o",
+		"codigoente" : 50
+	},
+	{
+		"jurisdicionadoid" : 633,
+		"jurisdicionadonome" : "Prefeitura Municipal de Caldas Brand�o",
+		"codigoente" : 50
+	},
+	{
+		"jurisdicionadoid" : 68,
+		"jurisdicionadonome" : "C�mara Municipal de Camala�",
+		"codigoente" : 51
+	},
+	{
+		"jurisdicionadoid" : 634,
+		"jurisdicionadonome" : "Prefeitura Municipal de Camala�",
+		"codigoente" : 51
+	},
+	{
+		"jurisdicionadoid" : 9,
+		"jurisdicionadonome" : "Ag�ncia Municipal de Desenvolvimento de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 69,
+		"jurisdicionadonome" : "C�mara Municipal de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 289,
+		"jurisdicionadonome" : "Empresa Municipal de Urbaniza��o da Borborema",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 135302,
+		"jurisdicionadonome" : "Fundo do Trabalho de Campina Grande? FT\/Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 371,
+		"jurisdicionadonome" : "Fundo Municipal da Crian�a e do Adolescente de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 378,
+		"jurisdicionadonome" : "Fundo Municipal de Assistencia Social de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 401,
+		"jurisdicionadonome" : "Fundo Municipal de Defesa dos Direitos Difusos de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 412,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 458,
+		"jurisdicionadonome" : "Fundo Municipal do Meio Ambiente de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 4298,
+		"jurisdicionadonome" : "Gabinete do Prefeito de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 8880,
+		"jurisdicionadonome" : "Gabinete do Vice-Prefeito de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 499,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Mun. de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 635,
+		"jurisdicionadonome" : "Prefeitura Municipal de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 4300,
+		"jurisdicionadonome" : "Procuradoria Geral do Munic�pio de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 992,
+		"jurisdicionadonome" : "Secretaria da Administra��o de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 991,
+		"jurisdicionadonome" : "Secretaria da Educa��o, Esporte e Cultura de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 1000,
+		"jurisdicionadonome" : "Secretaria da Fazenda do Munic�pio de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 26540,
+		"jurisdicionadonome" : "Secretaria de Agricultura da Prefeitura Municipal de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 4299,
+		"jurisdicionadonome" : "Secretaria de Assist�ncia Social de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 10102,
+		"jurisdicionadonome" : "Secretaria de Assuntos Jur�dicos de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 42755,
+		"jurisdicionadonome" : "Secretaria de Ci�ncia, Tecnologia e Inova��o de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 18352,
+		"jurisdicionadonome" : "Secretaria de Cultura de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 1001,
+		"jurisdicionadonome" : "Secretaria de Educa��o do Munic�pio de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 25668,
+		"jurisdicionadonome" : "Secretaria de Esporte, Juventude e Lazer de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 994,
+		"jurisdicionadonome" : "Secretaria de Finan�as de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 993,
+		"jurisdicionadonome" : "Secretaria de Obras e Servi�os Urbanos de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 4323,
+		"jurisdicionadonome" : "Secretaria de Sa�de de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 1003,
+		"jurisdicionadonome" : "Secretaria de Servi�os Urbanos de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 39453,
+		"jurisdicionadonome" : "Secretaria de Servi�os Urbanos e Meio Ambiente de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 1002,
+		"jurisdicionadonome" : "Secretaria do Planejamento e Gest�o de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 4297,
+		"jurisdicionadonome" : "Secretaria Municipal de Desenvolvimento Econ�mico de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 880,
+		"jurisdicionadonome" : "Superintend�ncia de Transportes P�blicos de Campina Grande",
+		"codigoente" : 52
+	},
+	{
+		"jurisdicionadoid" : 71,
+		"jurisdicionadonome" : "C�mara Municipal de Capim",
+		"codigoente" : 54
+	},
+	{
+		"jurisdicionadoid" : 379,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Capim",
+		"codigoente" : 54
+	},
+	{
+		"jurisdicionadoid" : 413,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Capim",
+		"codigoente" : 54
+	},
+	{
+		"jurisdicionadoid" : 637,
+		"jurisdicionadonome" : "Prefeitura Municipal de Capim",
+		"codigoente" : 54
+	},
+	{
+		"jurisdicionadoid" : 72,
+		"jurisdicionadonome" : "C�mara Municipal de Cara�bas",
+		"codigoente" : 55
+	},
+	{
+		"jurisdicionadoid" : 16318,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cara�bas",
+		"codigoente" : 55
+	},
+	{
+		"jurisdicionadoid" : 638,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cara�bas",
+		"codigoente" : 55
+	},
+	{
+		"jurisdicionadoid" : 73,
+		"jurisdicionadonome" : "C�mara Municipal de Carrapateira",
+		"codigoente" : 56
+	},
+	{
+		"jurisdicionadoid" : 639,
+		"jurisdicionadonome" : "Prefeitura Municipal de Carrapateira",
+		"codigoente" : 56
+	},
+	{
+		"jurisdicionadoid" : 74,
+		"jurisdicionadonome" : "C�mara Municipal de Casserengue",
+		"codigoente" : 57
+	},
+	{
+		"jurisdicionadoid" : 40352,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Casserengue",
+		"codigoente" : 57
+	},
+	{
+		"jurisdicionadoid" : 640,
+		"jurisdicionadonome" : "Prefeitura Municipal de Casserengue",
+		"codigoente" : 57
+	},
+	{
+		"jurisdicionadoid" : 75,
+		"jurisdicionadonome" : "C�mara Municipal de Catingueira",
+		"codigoente" : 58
+	},
+	{
+		"jurisdicionadoid" : 114961,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Catingueira",
+		"codigoente" : 58
+	},
+	{
+		"jurisdicionadoid" : 414,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Catingueira",
+		"codigoente" : 58
+	},
+	{
+		"jurisdicionadoid" : 641,
+		"jurisdicionadonome" : "Prefeitura Municipal de Catingueira",
+		"codigoente" : 58
+	},
+	{
+		"jurisdicionadoid" : 76,
+		"jurisdicionadonome" : "C�mara Municipal de Catol� do Rocha",
+		"codigoente" : 59
+	},
+	{
+		"jurisdicionadoid" : 642,
+		"jurisdicionadonome" : "Prefeitura Municipal de Catol� do Rocha",
+		"codigoente" : 59
+	},
+	{
+		"jurisdicionadoid" : 77,
+		"jurisdicionadonome" : "C�mara Municipal de Caturit�",
+		"codigoente" : 60
+	},
+	{
+		"jurisdicionadoid" : 643,
+		"jurisdicionadonome" : "Prefeitura Municipal de Caturit�",
+		"codigoente" : 60
+	},
+	{
+		"jurisdicionadoid" : 78,
+		"jurisdicionadonome" : "C�mara Municipal de Concei��o",
+		"codigoente" : 62
+	},
+	{
+		"jurisdicionadoid" : 644,
+		"jurisdicionadonome" : "Prefeitura Municipal de Concei��o",
+		"codigoente" : 62
+	},
+	{
+		"jurisdicionadoid" : 79,
+		"jurisdicionadonome" : "C�mara Municipal de Condado",
+		"codigoente" : 63
+	},
+	{
+		"jurisdicionadoid" : 116074,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Condado",
+		"codigoente" : 63
+	},
+	{
+		"jurisdicionadoid" : 119452,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Condado",
+		"codigoente" : 63
+	},
+	{
+		"jurisdicionadoid" : 645,
+		"jurisdicionadonome" : "Prefeitura Municipal de Condado",
+		"codigoente" : 63
+	},
+	{
+		"jurisdicionadoid" : 47775,
+		"jurisdicionadonome" : "Ag�ncia Municipal de Desenvolvimento de Conde - AD Conde",
+		"codigoente" : 64
+	},
+	{
+		"jurisdicionadoid" : 54148,
+		"jurisdicionadonome" : "Autarquia Municipal de Apoio aos Pequenos Neg�cios",
+		"codigoente" : 64
+	},
+	{
+		"jurisdicionadoid" : 80,
+		"jurisdicionadonome" : "C�mara Municipal de Conde",
+		"codigoente" : 64
+	},
+	{
+		"jurisdicionadoid" : 520,
+		"jurisdicionadonome" : "Conde Previd�ncia - CONDEPREV",
+		"codigoente" : 64
+	},
+	{
+		"jurisdicionadoid" : 11825,
+		"jurisdicionadonome" : "Fundo Municipal de Assit�ncia Social do Conde",
+		"codigoente" : 64
+	},
+	{
+		"jurisdicionadoid" : 11798,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de do Conde",
+		"codigoente" : 64
+	},
+	{
+		"jurisdicionadoid" : 646,
+		"jurisdicionadonome" : "Prefeitura Municipal de Conde",
+		"codigoente" : 64
+	},
+	{
+		"jurisdicionadoid" : 81,
+		"jurisdicionadonome" : "C�mara Municipal de Congo",
+		"codigoente" : 65
+	},
+	{
+		"jurisdicionadoid" : 15517,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de do Congo",
+		"codigoente" : 65
+	},
+	{
+		"jurisdicionadoid" : 647,
+		"jurisdicionadonome" : "Prefeitura Municipal de Congo",
+		"codigoente" : 65
+	},
+	{
+		"jurisdicionadoid" : 82,
+		"jurisdicionadonome" : "C�mara Municipal de Coremas",
+		"codigoente" : 66
+	},
+	{
+		"jurisdicionadoid" : 648,
+		"jurisdicionadonome" : "Prefeitura Municipal de Coremas",
+		"codigoente" : 66
+	},
+	{
+		"jurisdicionadoid" : 83,
+		"jurisdicionadonome" : "C�mara Municipal de Coxixola",
+		"codigoente" : 67
+	},
+	{
+		"jurisdicionadoid" : 649,
+		"jurisdicionadonome" : "Prefeitura Municipal de Coxixola",
+		"codigoente" : 67
+	},
+	{
+		"jurisdicionadoid" : 84,
+		"jurisdicionadonome" : "C�mara Municipal de Cruz do Esp�rito Santo",
+		"codigoente" : 68
+	},
+	{
+		"jurisdicionadoid" : 650,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cruz do Esp�rito Santo",
+		"codigoente" : 68
+	},
+	{
+		"jurisdicionadoid" : 85,
+		"jurisdicionadonome" : "C�mara Municipal de Cubati",
+		"codigoente" : 69
+	},
+	{
+		"jurisdicionadoid" : 416,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cubat�",
+		"codigoente" : 69
+	},
+	{
+		"jurisdicionadoid" : 651,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cubati",
+		"codigoente" : 69
+	},
+	{
+		"jurisdicionadoid" : 86,
+		"jurisdicionadonome" : "C�mara Municipal de Cuit�",
+		"codigoente" : 70
+	},
+	{
+		"jurisdicionadoid" : 533,
+		"jurisdicionadonome" : "Instituto de Previd�ncia dos Servidores de Cuit�",
+		"codigoente" : 70
+	},
+	{
+		"jurisdicionadoid" : 652,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cuit�",
+		"codigoente" : 70
+	},
+	{
+		"jurisdicionadoid" : 87,
+		"jurisdicionadonome" : "C�mara Municipal de Cuit� de Mamanguape",
+		"codigoente" : 71
+	},
+	{
+		"jurisdicionadoid" : 16399,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cuit� de Mamanguape",
+		"codigoente" : 71
+	},
+	{
+		"jurisdicionadoid" : 653,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cuit� de Mamanguape",
+		"codigoente" : 71
+	},
+	{
+		"jurisdicionadoid" : 88,
+		"jurisdicionadonome" : "C�mara Municipal de Cuitegi",
+		"codigoente" : 72
+	},
+	{
+		"jurisdicionadoid" : 24038,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Cuitegi",
+		"codigoente" : 72
+	},
+	{
+		"jurisdicionadoid" : 490,
+		"jurisdicionadonome" : "Instituto de Prev. do Munic�pio de Cuitegi",
+		"codigoente" : 72
+	},
+	{
+		"jurisdicionadoid" : 654,
+		"jurisdicionadonome" : "Prefeitura Municipal de Cuitegi",
+		"codigoente" : 72
+	},
+	{
+		"jurisdicionadoid" : 89,
+		"jurisdicionadonome" : "C�mara Municipal de Curral de Cima",
+		"codigoente" : 73
+	},
+	{
+		"jurisdicionadoid" : 655,
+		"jurisdicionadonome" : "Prefeitura Municipal de Curral de Cima",
+		"codigoente" : 73
+	},
+	{
+		"jurisdicionadoid" : 90,
+		"jurisdicionadonome" : "C�mara Municipal de Curral Velho",
+		"codigoente" : 74
+	},
+	{
+		"jurisdicionadoid" : 11341,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Curral Velho",
+		"codigoente" : 74
+	},
+	{
+		"jurisdicionadoid" : 656,
+		"jurisdicionadonome" : "Prefeitura Municipal de Curral Velho",
+		"codigoente" : 74
+	},
+	{
+		"jurisdicionadoid" : 91,
+		"jurisdicionadonome" : "C�mara Municipal de Dami�o",
+		"codigoente" : 75
+	},
+	{
+		"jurisdicionadoid" : 657,
+		"jurisdicionadonome" : "Prefeitura Municipal de Dami�o",
+		"codigoente" : 75
+	},
+	{
+		"jurisdicionadoid" : 92,
+		"jurisdicionadonome" : "C�mara Municipal de Desterro",
+		"codigoente" : 76
+	},
+	{
+		"jurisdicionadoid" : 11381,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Desterro",
+		"codigoente" : 76
+	},
+	{
+		"jurisdicionadoid" : 11383,
+		"jurisdicionadonome" : "Instituto de Previd�ncia do Munic�pio de Desterro",
+		"codigoente" : 76
+	},
+	{
+		"jurisdicionadoid" : 658,
+		"jurisdicionadonome" : "Prefeitura Municipal de Desterro",
+		"codigoente" : 76
+	},
+	{
+		"jurisdicionadoid" : 94,
+		"jurisdicionadonome" : "C�mara Municipal de Diamante",
+		"codigoente" : 77
+	},
+	{
+		"jurisdicionadoid" : 538,
+		"jurisdicionadonome" : "Instituto de Previd�ncia Municipal de Diamante",
+		"codigoente" : 77
+	},
+	{
+		"jurisdicionadoid" : 660,
+		"jurisdicionadonome" : "Prefeitura Municipal de Diamante",
+		"codigoente" : 77
+	},
+	{
+		"jurisdicionadoid" : 95,
+		"jurisdicionadonome" : "C�mara Municipal de Dona In�s",
+		"codigoente" : 78
+	},
+	{
+		"jurisdicionadoid" : 16107,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Dona In�s",
+		"codigoente" : 78
+	},
+	{
+		"jurisdicionadoid" : 531,
+		"jurisdicionadonome" : "Instituto de Previd�ncia dos Serv. P�b. de Dona In�s",
+		"codigoente" : 78
+	},
+	{
+		"jurisdicionadoid" : 661,
+		"jurisdicionadonome" : "Prefeitura Municipal de Dona In�s",
+		"codigoente" : 78
+	},
+	{
+		"jurisdicionadoid" : 96,
+		"jurisdicionadonome" : "C�mara Municipal de Duas Estradas",
+		"codigoente" : 79
+	},
+	{
+		"jurisdicionadoid" : 662,
+		"jurisdicionadonome" : "Prefeitura Municipal de Duas Estradas",
+		"codigoente" : 79
+	},
+	{
+		"jurisdicionadoid" : 97,
+		"jurisdicionadonome" : "C�mara Municipal de Emas",
+		"codigoente" : 80
+	},
+	{
+		"jurisdicionadoid" : 663,
+		"jurisdicionadonome" : "Prefeitura Municipal de Emas",
+		"codigoente" : 80
+	},
+	{
+		"jurisdicionadoid" : 156961,
+		"jurisdicionadonome" : "Autarquia Municipal de Prote��o e Defesa do Consumidor - PROCON",
+		"codigoente" : 81
+	},
+	{
+		"jurisdicionadoid" : 98,
+		"jurisdicionadonome" : "C�mara Municipal de Esperan�a",
+		"codigoente" : 81
+	},
+	{
+		"jurisdicionadoid" : 349,
+		"jurisdicionadonome" : "Fundo de Previd�ncia Social dos Serv. do Mun. de Esperan�a",
+		"codigoente" : 81
+	},
+	{
+		"jurisdicionadoid" : 114842,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social",
+		"codigoente" : 81
+	},
+	{
+		"jurisdicionadoid" : 114843,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de",
+		"codigoente" : 81
+	},
+	{
+		"jurisdicionadoid" : 664,
+		"jurisdicionadonome" : "Prefeitura Municipal de Esperan�a",
+		"codigoente" : 81
+	},
+	{
+		"jurisdicionadoid" : 99,
+		"jurisdicionadonome" : "C�mara Municipal de Fagundes",
+		"codigoente" : 83
+	},
+	{
+		"jurisdicionadoid" : 665,
+		"jurisdicionadonome" : "Prefeitura Municipal de Fagundes",
+		"codigoente" : 83
+	},
+	{
+		"jurisdicionadoid" : 100,
+		"jurisdicionadonome" : "C�mara Municipal de Frei Martinho",
+		"codigoente" : 85
+	},
+	{
+		"jurisdicionadoid" : 508,
+		"jurisdicionadonome" : "Instituto de Prev. dos Servidores de Frei Martinho",
+		"codigoente" : 85
+	},
+	{
+		"jurisdicionadoid" : 666,
+		"jurisdicionadonome" : "Prefeitura Municipal de Frei Martinho",
+		"codigoente" : 85
+	},
+	{
+		"jurisdicionadoid" : 101,
+		"jurisdicionadonome" : "C�mara Municipal de Gado Bravo",
+		"codigoente" : 86
+	},
+	{
+		"jurisdicionadoid" : 667,
+		"jurisdicionadonome" : "Prefeitura Municipal de Gado Bravo",
+		"codigoente" : 86
+	},
+	{
+		"jurisdicionadoid" : 102,
+		"jurisdicionadonome" : "C�mara Municipal de Guarabira",
+		"codigoente" : 87
+	},
+	{
+		"jurisdicionadoid" : 7029,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Guarabira",
+		"codigoente" : 87
+	},
+	{
+		"jurisdicionadoid" : 484,
+		"jurisdicionadonome" : "Instituto de Assist�ncia e Prev. Mun. de Guarabira",
+		"codigoente" : 87
+	},
+	{
+		"jurisdicionadoid" : 668,
+		"jurisdicionadonome" : "Prefeitura Municipal de Guarabira",
+		"codigoente" : 87
+	},
+	{
+		"jurisdicionadoid" : 103,
+		"jurisdicionadonome" : "C�mara Municipal de Gurinh�m",
+		"codigoente" : 88
+	},
+	{
+		"jurisdicionadoid" : 669,
+		"jurisdicionadonome" : "Prefeitura Municipal de Gurinh�m",
+		"codigoente" : 88
+	},
+	{
+		"jurisdicionadoid" : 104,
+		"jurisdicionadonome" : "C�mara Municipal de Gurj�o",
+		"codigoente" : 89
+	},
+	{
+		"jurisdicionadoid" : 670,
+		"jurisdicionadonome" : "Prefeitura Municipal de Gurj�o",
+		"codigoente" : 89
+	},
+	{
+		"jurisdicionadoid" : 105,
+		"jurisdicionadonome" : "C�mara Municipal de Ibiara",
+		"codigoente" : 90
+	},
+	{
+		"jurisdicionadoid" : 463,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Ibiara",
+		"codigoente" : 90
+	},
+	{
+		"jurisdicionadoid" : 671,
+		"jurisdicionadonome" : "Prefeitura Municipal de Ibiara",
+		"codigoente" : 90
+	},
+	{
+		"jurisdicionadoid" : 106,
+		"jurisdicionadonome" : "C�mara Municipal de Igaracy",
+		"codigoente" : 91
+	},
+	{
+		"jurisdicionadoid" : 672,
+		"jurisdicionadonome" : "Prefeitura Municipal de Igaracy",
+		"codigoente" : 91
+	},
+	{
+		"jurisdicionadoid" : 107,
+		"jurisdicionadonome" : "C�mara Municipal de Imaculada",
+		"codigoente" : 92
+	},
+	{
+		"jurisdicionadoid" : 35276,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Imaculada",
+		"codigoente" : 92
+	},
+	{
+		"jurisdicionadoid" : 673,
+		"jurisdicionadonome" : "Prefeitura Municipal de Imaculada",
+		"codigoente" : 92
+	},
+	{
+		"jurisdicionadoid" : 108,
+		"jurisdicionadonome" : "C�mara Municipal de Ing�",
+		"codigoente" : 93
+	},
+	{
+		"jurisdicionadoid" : 674,
+		"jurisdicionadonome" : "Prefeitura Municipal de Ing�",
+		"codigoente" : 93
+	},
+	{
+		"jurisdicionadoid" : 109,
+		"jurisdicionadonome" : "C�mara Municipal de Itabaiana",
+		"codigoente" : 94
+	},
+	{
+		"jurisdicionadoid" : 11878,
+		"jurisdicionadonome" : "Fundo Municipal de Assit�ncia Social de Itabaiana",
+		"codigoente" : 94
+	},
+	{
+		"jurisdicionadoid" : 420,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Itabaiana",
+		"codigoente" : 94
+	},
+	{
+		"jurisdicionadoid" : 675,
+		"jurisdicionadonome" : "Prefeitura Municipal de Itabaiana",
+		"codigoente" : 94
+	},
+	{
+		"jurisdicionadoid" : 110,
+		"jurisdicionadonome" : "C�mara Municipal de Itaporanga",
+		"codigoente" : 95
+	},
+	{
+		"jurisdicionadoid" : 11946,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Itaporanga",
+		"codigoente" : 95
+	},
+	{
+		"jurisdicionadoid" : 676,
+		"jurisdicionadonome" : "Prefeitura Municipal de Itaporanga",
+		"codigoente" : 95
+	},
+	{
+		"jurisdicionadoid" : 111,
+		"jurisdicionadonome" : "C�mara Municipal de Itapororoca",
+		"codigoente" : 96
+	},
+	{
+		"jurisdicionadoid" : 16364,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Itapororoca",
+		"codigoente" : 96
+	},
+	{
+		"jurisdicionadoid" : 677,
+		"jurisdicionadonome" : "Prefeitura Municipal de Itapororoca",
+		"codigoente" : 96
+	},
+	{
+		"jurisdicionadoid" : 112,
+		"jurisdicionadonome" : "C�mara Municipal de Itatuba",
+		"codigoente" : 97
+	},
+	{
+		"jurisdicionadoid" : 678,
+		"jurisdicionadonome" : "Prefeitura Municipal de Itatuba",
+		"codigoente" : 97
+	},
+	{
+		"jurisdicionadoid" : 113,
+		"jurisdicionadonome" : "C�mara Municipal de Jacara�",
+		"codigoente" : 98
+	},
+	{
+		"jurisdicionadoid" : 43151,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Jacara�",
+		"codigoente" : 98
+	},
+	{
+		"jurisdicionadoid" : 515,
+		"jurisdicionadonome" : "Instituto de Prev. e Assist�ncia do Munic�pio de Jacara�",
+		"codigoente" : 98
+	},
+	{
+		"jurisdicionadoid" : 679,
+		"jurisdicionadonome" : "Prefeitura Municipal de Jacara�",
+		"codigoente" : 98
+	},
+	{
+		"jurisdicionadoid" : 114,
+		"jurisdicionadonome" : "C�mara Municipal de Jeric�",
+		"codigoente" : 99
+	},
+	{
+		"jurisdicionadoid" : 680,
+		"jurisdicionadonome" : "Prefeitura Municipal de Jeric�",
+		"codigoente" : 99
+	},
+	{
+		"jurisdicionadoid" : 13,
+		"jurisdicionadonome" : "Autarquia Especial Municipal de Limpeza Urbana - EMLUR",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 115,
+		"jurisdicionadonome" : "C�mara Municipal de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 9532,
+		"jurisdicionadonome" : "Chefia de Gabinete do Prefeito de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 71699,
+		"jurisdicionadonome" : "Controladoria Geral do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 72226,
+		"jurisdicionadonome" : "Coordenadoria Municipal de Prote��o e Defesa Civil de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 307,
+		"jurisdicionadonome" : "Funda��o Cultural de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 40361,
+		"jurisdicionadonome" : "Fundo de Gest�o, Desenvolvimento eModerniza��o da procuradoria Geral do Munic�pio de Jo�o Pessoa-FUNDERM",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 135358,
+		"jurisdicionadonome" : "Fundo do Trabalho de Jo�o Pessoa ? FTJP",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 71704,
+		"jurisdicionadonome" : "Fundo Municipal da Esta��o Cabo Branco - Ci�ncias, Cultura, Artes",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 966,
+		"jurisdicionadonome" : "Fundo Municipal de Apoio aos Pequenos Neg�cios - EMPREENDER-JP",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 1010,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 399,
+		"jurisdicionadonome" : "Fundo Municipal de Cultura",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 400,
+		"jurisdicionadonome" : "Fundo Municipal de Defesa dos Direitos Difusos",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 421,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 3269,
+		"jurisdicionadonome" : "Fundo Municipal de Urbaniza��o",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 58141,
+		"jurisdicionadonome" : "Fundo Municipal do Idoso - FMI-JP",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 459,
+		"jurisdicionadonome" : "Fundo Municipal do Meio Ambiente de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 462,
+		"jurisdicionadonome" : "Fundo Municipal dos Dir. da Crian�a e do Adolescente de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 84901,
+		"jurisdicionadonome" : "Fundo Municipal dos Direitos da Mulher de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 464,
+		"jurisdicionadonome" : "Gabinete Civil do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 11644,
+		"jurisdicionadonome" : "Gabinete de Comunica��o Social do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 11645,
+		"jurisdicionadonome" : "Gabinete do Prefeito do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 483,
+		"jurisdicionadonome" : "Instituto C�ndida Vargas",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 516,
+		"jurisdicionadonome" : "Instituto de Previd�ncia do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 681,
+		"jurisdicionadonome" : "Prefeitura Municipal de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 813,
+		"jurisdicionadonome" : "Procuradoria Geral do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 818,
+		"jurisdicionadonome" : "Secretaria da Administra��o do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 45531,
+		"jurisdicionadonome" : "Secretaria da Ci�ncia e Tecnologia do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 822,
+		"jurisdicionadonome" : "Secretaria da Educa��o e Cultura do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 11646,
+		"jurisdicionadonome" : "Secretaria da Gest�o Governamental e Articula��o Pol�tica do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 826,
+		"jurisdicionadonome" : "Secretaria da Infra-Estrutura do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 9817,
+		"jurisdicionadonome" : "Secretaria da Juventude, Esporte e Recrea��o do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 11643,
+		"jurisdicionadonome" : "Secretaria da Receita Municipal do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 9531,
+		"jurisdicionadonome" : "Secretaria da Transpar�ncia P�blica do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 833,
+		"jurisdicionadonome" : "Secretaria de Comunica��o do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 3818,
+		"jurisdicionadonome" : "Secretaria de Comunica��o Social do Mun. de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 835,
+		"jurisdicionadonome" : "Secretaria de Desenvolvimento e Controle Urbano do Mun. de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 3815,
+		"jurisdicionadonome" : "Secretaria de Desenvolvimento Social do Mun. de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 3814,
+		"jurisdicionadonome" : "Secretaria de Desenvolvimento Sustent�vel da Produ��o do Mun. de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 3817,
+		"jurisdicionadonome" : "Secretaria de Educa��o, Cultura e Esportes do Mun. de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 45602,
+		"jurisdicionadonome" : "Secretaria de Encargos Gerais - Administra��o - do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 852,
+		"jurisdicionadonome" : "Secretaria de Finan�as do Mun�cipio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 11642,
+		"jurisdicionadonome" : "Secretaria de Habita��o Social do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 853,
+		"jurisdicionadonome" : "Secretaria de Meio Ambiente do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 3816,
+		"jurisdicionadonome" : "Secretaria de Planejamento, Desenv. Urbano e Meio Ambiente do Mun de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 858,
+		"jurisdicionadonome" : "Secretaria de Sa�de do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 72262,
+		"jurisdicionadonome" : "Secretaria de Turismo de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 863,
+		"jurisdicionadonome" : "Secretaria do Trabalho e A��o Social do Mun. de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 864,
+		"jurisdicionadonome" : "Secretaria do Trabalho e Promo��o Social do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 45530,
+		"jurisdicionadonome" : "Secretaria do Trabalho, Produ��o e Renda do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 45529,
+		"jurisdicionadonome" : "Secretaria Extraordin�ria de Pol�ticas P�blicas para as Mulheres do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 151071,
+		"jurisdicionadonome" : "Secretaria Municipal da Fazenda - SEMFAZ",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 868,
+		"jurisdicionadonome" : "Secretaria Municipal de Planejamento de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 61639,
+		"jurisdicionadonome" : "Secretaria Municipal de Prote��o e Defesa do Consumidor",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 71662,
+		"jurisdicionadonome" : "Secretaria Municipal de Seguran�a Urbana e Cidadania de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 879,
+		"jurisdicionadonome" : "SEMOB - Superintend�ncia Executiva de Mobilidade Urbana",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 45528,
+		"jurisdicionadonome" : "Superintend�ncia da Guarda municipal do Munic�pio de Jo�o Pessoa",
+		"codigoente" : 100
+	},
+	{
+		"jurisdicionadoid" : 116,
+		"jurisdicionadonome" : "C�mara Municipal de Juarez T�vora",
+		"codigoente" : 101
+	},
+	{
+		"jurisdicionadoid" : 682,
+		"jurisdicionadonome" : "Prefeitura Municipal de Juarez T�vora",
+		"codigoente" : 101
+	},
+	{
+		"jurisdicionadoid" : 117,
+		"jurisdicionadonome" : "C�mara Municipal de Juazeirinho",
+		"codigoente" : 102
+	},
+	{
+		"jurisdicionadoid" : 13945,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Juazeirinho",
+		"codigoente" : 102
+	},
+	{
+		"jurisdicionadoid" : 11698,
+		"jurisdicionadonome" : "Instituto Previd�nci�rio do Munic�pio de Juazeirinho",
+		"codigoente" : 102
+	},
+	{
+		"jurisdicionadoid" : 683,
+		"jurisdicionadonome" : "Prefeitura Municipal de Juazeirinho",
+		"codigoente" : 102
+	},
+	{
+		"jurisdicionadoid" : 118,
+		"jurisdicionadonome" : "C�mara Municipal de Junco do Serid�",
+		"codigoente" : 103
+	},
+	{
+		"jurisdicionadoid" : 15704,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Junco do Serid�",
+		"codigoente" : 103
+	},
+	{
+		"jurisdicionadoid" : 684,
+		"jurisdicionadonome" : "Prefeitura Municipal de Junco do Serid�",
+		"codigoente" : 103
+	},
+	{
+		"jurisdicionadoid" : 119,
+		"jurisdicionadonome" : "C�mara Municipal de Juripiranga",
+		"codigoente" : 105
+	},
+	{
+		"jurisdicionadoid" : 11268,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Juripiranga",
+		"codigoente" : 105
+	},
+	{
+		"jurisdicionadoid" : 685,
+		"jurisdicionadonome" : "Prefeitura Municipal de Juripiranga",
+		"codigoente" : 105
+	},
+	{
+		"jurisdicionadoid" : 120,
+		"jurisdicionadonome" : "C�mara Municipal de Juru",
+		"codigoente" : 106
+	},
+	{
+		"jurisdicionadoid" : 536,
+		"jurisdicionadonome" : "Instituto de Previdencia dos Servidores Municipais de Juru",
+		"codigoente" : 106
+	},
+	{
+		"jurisdicionadoid" : 686,
+		"jurisdicionadonome" : "Prefeitura Municipal de Juru",
+		"codigoente" : 106
+	},
+	{
+		"jurisdicionadoid" : 121,
+		"jurisdicionadonome" : "C�mara Municipal de Lagoa",
+		"codigoente" : 107
+	},
+	{
+		"jurisdicionadoid" : 687,
+		"jurisdicionadonome" : "Prefeitura Municipal de Lagoa",
+		"codigoente" : 107
+	},
+	{
+		"jurisdicionadoid" : 122,
+		"jurisdicionadonome" : "C�mara Municipal de Lagoa de Dentro",
+		"codigoente" : 108
+	},
+	{
+		"jurisdicionadoid" : 16407,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Lagoa de Dentro",
+		"codigoente" : 108
+	},
+	{
+		"jurisdicionadoid" : 688,
+		"jurisdicionadonome" : "Prefeitura Municipal de Lagoa de Dentro",
+		"codigoente" : 108
+	},
+	{
+		"jurisdicionadoid" : 123,
+		"jurisdicionadonome" : "C�mara Municipal de Lagoa Seca",
+		"codigoente" : 109
+	},
+	{
+		"jurisdicionadoid" : 510,
+		"jurisdicionadonome" : "Instituto de Prev. dos Servidores Municipais de Lagoa Seca",
+		"codigoente" : 109
+	},
+	{
+		"jurisdicionadoid" : 689,
+		"jurisdicionadonome" : "Prefeitura Municipal de Lagoa Seca",
+		"codigoente" : 109
+	},
+	{
+		"jurisdicionadoid" : 124,
+		"jurisdicionadonome" : "C�mara Municipal de Lastro",
+		"codigoente" : 110
+	},
+	{
+		"jurisdicionadoid" : 690,
+		"jurisdicionadonome" : "Prefeitura Municipal de Lastro",
+		"codigoente" : 110
+	},
+	{
+		"jurisdicionadoid" : 125,
+		"jurisdicionadonome" : "C�mara Municipal de Livramento",
+		"codigoente" : 111
+	},
+	{
+		"jurisdicionadoid" : 691,
+		"jurisdicionadonome" : "Prefeitura Municipal de Livramento",
+		"codigoente" : 111
+	},
+	{
+		"jurisdicionadoid" : 126,
+		"jurisdicionadonome" : "C�mara Municipal de Logradouro",
+		"codigoente" : 112
+	},
+	{
+		"jurisdicionadoid" : 692,
+		"jurisdicionadonome" : "Prefeitura Municipal de Logradouro",
+		"codigoente" : 112
+	},
+	{
+		"jurisdicionadoid" : 127,
+		"jurisdicionadonome" : "C�mara Municipal de Lucena",
+		"codigoente" : 113
+	},
+	{
+		"jurisdicionadoid" : 11622,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Lucena",
+		"codigoente" : 113
+	},
+	{
+		"jurisdicionadoid" : 11623,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Lucena",
+		"codigoente" : 113
+	},
+	{
+		"jurisdicionadoid" : 539,
+		"jurisdicionadonome" : "Instituto de Previd�ncia Municipal de Lucena",
+		"codigoente" : 113
+	},
+	{
+		"jurisdicionadoid" : 693,
+		"jurisdicionadonome" : "Prefeitura Municipal de Lucena",
+		"codigoente" : 113
+	},
+	{
+		"jurisdicionadoid" : 128,
+		"jurisdicionadonome" : "C�mara Municipal de M�e d� �gua",
+		"codigoente" : 114
+	},
+	{
+		"jurisdicionadoid" : 694,
+		"jurisdicionadonome" : "Prefeitura Municipal de M�e d� �gua",
+		"codigoente" : 114
+	},
+	{
+		"jurisdicionadoid" : 129,
+		"jurisdicionadonome" : "C�mara Municipal de Malta",
+		"codigoente" : 115
+	},
+	{
+		"jurisdicionadoid" : 695,
+		"jurisdicionadonome" : "Prefeitura Municipal de Malta",
+		"codigoente" : 115
+	},
+	{
+		"jurisdicionadoid" : 130,
+		"jurisdicionadonome" : "C�mara Municipal de Mamanguape",
+		"codigoente" : 116
+	},
+	{
+		"jurisdicionadoid" : 425,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Mamanguape",
+		"codigoente" : 116
+	},
+	{
+		"jurisdicionadoid" : 696,
+		"jurisdicionadonome" : "Prefeitura Municipal de Mamanguape",
+		"codigoente" : 116
+	},
+	{
+		"jurisdicionadoid" : 40353,
+		"jurisdicionadonome" : "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO URBANO DO MUNIC�PIO DE MAMANGUAPE",
+		"codigoente" : 116
+	},
+	{
+		"jurisdicionadoid" : 15500,
+		"jurisdicionadonome" : "Superintend�ncia Municipal de Transporte e Tr�nsito - SMTT",
+		"codigoente" : 116
+	},
+	{
+		"jurisdicionadoid" : 131,
+		"jurisdicionadonome" : "C�mara Municipal de Manaira",
+		"codigoente" : 117
+	},
+	{
+		"jurisdicionadoid" : 11861,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Mana�ra",
+		"codigoente" : 117
+	},
+	{
+		"jurisdicionadoid" : 697,
+		"jurisdicionadonome" : "Prefeitura Municipal de Manaira",
+		"codigoente" : 117
+	},
+	{
+		"jurisdicionadoid" : 132,
+		"jurisdicionadonome" : "C�mara Municipal de Marca��o",
+		"codigoente" : 119
+	},
+	{
+		"jurisdicionadoid" : 16194,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Marca��o",
+		"codigoente" : 119
+	},
+	{
+		"jurisdicionadoid" : 698,
+		"jurisdicionadonome" : "Prefeitura Municipal de Marca��o",
+		"codigoente" : 119
+	},
+	{
+		"jurisdicionadoid" : 23984,
+		"jurisdicionadonome" : "Autarquia Municipal Mari PREV",
+		"codigoente" : 120
+	},
+	{
+		"jurisdicionadoid" : 133,
+		"jurisdicionadonome" : "C�mara Municipal de Mari",
+		"codigoente" : 120
+	},
+	{
+		"jurisdicionadoid" : 699,
+		"jurisdicionadonome" : "Prefeitura Municipal de Mari",
+		"codigoente" : 120
+	},
+	{
+		"jurisdicionadoid" : 134,
+		"jurisdicionadonome" : "C�mara Municipal de Mariz�polis",
+		"codigoente" : 121
+	},
+	{
+		"jurisdicionadoid" : 512,
+		"jurisdicionadonome" : "Instituto de Prev. e Assist. Social dos Serv. de Mariz�polis",
+		"codigoente" : 121
+	},
+	{
+		"jurisdicionadoid" : 700,
+		"jurisdicionadonome" : "Prefeitura Municipal de Mariz�polis",
+		"codigoente" : 121
+	},
+	{
+		"jurisdicionadoid" : 135,
+		"jurisdicionadonome" : "C�mara Municipal de Massaranduba",
+		"codigoente" : 122
+	},
+	{
+		"jurisdicionadoid" : 9452,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Massaranduba",
+		"codigoente" : 122
+	},
+	{
+		"jurisdicionadoid" : 701,
+		"jurisdicionadonome" : "Prefeitura Municipal de Massaranduba",
+		"codigoente" : 122
+	},
+	{
+		"jurisdicionadoid" : 136,
+		"jurisdicionadonome" : "C�mara Municipal de Mataraca",
+		"codigoente" : 123
+	},
+	{
+		"jurisdicionadoid" : 15503,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Mataraca",
+		"codigoente" : 123
+	},
+	{
+		"jurisdicionadoid" : 702,
+		"jurisdicionadonome" : "Prefeitura Municipal de Mataraca",
+		"codigoente" : 123
+	},
+	{
+		"jurisdicionadoid" : 137,
+		"jurisdicionadonome" : "C�mara Municipal de Matinhas",
+		"codigoente" : 124
+	},
+	{
+		"jurisdicionadoid" : 703,
+		"jurisdicionadonome" : "Prefeitura Municipal de Matinhas",
+		"codigoente" : 124
+	},
+	{
+		"jurisdicionadoid" : 138,
+		"jurisdicionadonome" : "C�mara Municipal de Mato Grosso",
+		"codigoente" : 125
+	},
+	{
+		"jurisdicionadoid" : 704,
+		"jurisdicionadonome" : "Prefeitura Municipal de Mato Grosso",
+		"codigoente" : 125
+	},
+	{
+		"jurisdicionadoid" : 139,
+		"jurisdicionadonome" : "C�mara Municipal de Matur�ia",
+		"codigoente" : 126
+	},
+	{
+		"jurisdicionadoid" : 705,
+		"jurisdicionadonome" : "Prefeitura Municipal de Matur�ia",
+		"codigoente" : 126
+	},
+	{
+		"jurisdicionadoid" : 140,
+		"jurisdicionadonome" : "C�mara Municipal de Mogeiro",
+		"codigoente" : 128
+	},
+	{
+		"jurisdicionadoid" : 706,
+		"jurisdicionadonome" : "Prefeitura Municipal de Mogeiro",
+		"codigoente" : 128
+	},
+	{
+		"jurisdicionadoid" : 141,
+		"jurisdicionadonome" : "C�mara Municipal de Montadas",
+		"codigoente" : 129
+	},
+	{
+		"jurisdicionadoid" : 141501,
+		"jurisdicionadonome" : "IPMM - Instituto de Previd�ncia Municipal de Montadas",
+		"codigoente" : 129
+	},
+	{
+		"jurisdicionadoid" : 707,
+		"jurisdicionadonome" : "Prefeitura Municipal de Montadas",
+		"codigoente" : 129
+	},
+	{
+		"jurisdicionadoid" : 142,
+		"jurisdicionadonome" : "C�mara Municipal de Monte Horebe",
+		"codigoente" : 130
+	},
+	{
+		"jurisdicionadoid" : 708,
+		"jurisdicionadonome" : "Prefeitura Municipal de Monte Horebe",
+		"codigoente" : 130
+	},
+	{
+		"jurisdicionadoid" : 143,
+		"jurisdicionadonome" : "C�mara Municipal de Monteiro",
+		"codigoente" : 131
+	},
+	{
+		"jurisdicionadoid" : 248,
+		"jurisdicionadonome" : "Centro Integrado de Desenvolvimento da Ovinocaprinocultura de Monteiro",
+		"codigoente" : 131
+	},
+	{
+		"jurisdicionadoid" : 11361,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Monteiro",
+		"codigoente" : 131
+	},
+	{
+		"jurisdicionadoid" : 11360,
+		"jurisdicionadonome" : "Fundo Municipal de Educa��o de Monteiro",
+		"codigoente" : 131
+	},
+	{
+		"jurisdicionadoid" : 11359,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Monteiro",
+		"codigoente" : 131
+	},
+	{
+		"jurisdicionadoid" : 709,
+		"jurisdicionadonome" : "Prefeitura Municipal de Monteiro",
+		"codigoente" : 131
+	},
+	{
+		"jurisdicionadoid" : 125601,
+		"jurisdicionadonome" : "Superitend�ncia de Tr�nsito e Transportes de Monteiro",
+		"codigoente" : 131
+	},
+	{
+		"jurisdicionadoid" : 144,
+		"jurisdicionadonome" : "C�mara Municipal de Mulung�",
+		"codigoente" : 132
+	},
+	{
+		"jurisdicionadoid" : 87406,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Mulung�",
+		"codigoente" : 132
+	},
+	{
+		"jurisdicionadoid" : 710,
+		"jurisdicionadonome" : "Prefeitura Municipal de Mulung�",
+		"codigoente" : 132
+	},
+	{
+		"jurisdicionadoid" : 145,
+		"jurisdicionadonome" : "C�mara Municipal de Natuba",
+		"codigoente" : 133
+	},
+	{
+		"jurisdicionadoid" : 711,
+		"jurisdicionadonome" : "Prefeitura Municipal de Natuba",
+		"codigoente" : 133
+	},
+	{
+		"jurisdicionadoid" : 146,
+		"jurisdicionadonome" : "C�mara Municipal de Nazarezinho",
+		"codigoente" : 134
+	},
+	{
+		"jurisdicionadoid" : 501,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Mun. de Nazarezinho",
+		"codigoente" : 134
+	},
+	{
+		"jurisdicionadoid" : 712,
+		"jurisdicionadonome" : "Prefeitura Municipal de Nazarezinho",
+		"codigoente" : 134
+	},
+	{
+		"jurisdicionadoid" : 147,
+		"jurisdicionadonome" : "C�mara Municipal de Nova Floresta",
+		"codigoente" : 135
+	},
+	{
+		"jurisdicionadoid" : 713,
+		"jurisdicionadonome" : "Prefeitura Municipal de Nova Floresta",
+		"codigoente" : 135
+	},
+	{
+		"jurisdicionadoid" : 148,
+		"jurisdicionadonome" : "C�mara Municipal de Nova Olinda",
+		"codigoente" : 136
+	},
+	{
+		"jurisdicionadoid" : 714,
+		"jurisdicionadonome" : "Prefeitura Municipal de Nova Olinda",
+		"codigoente" : 136
+	},
+	{
+		"jurisdicionadoid" : 149,
+		"jurisdicionadonome" : "C�mara Municipal de Nova Palmeira",
+		"codigoente" : 137
+	},
+	{
+		"jurisdicionadoid" : 532,
+		"jurisdicionadonome" : "Instituto de Previd�ncia dos Serv. P�b. de Nova Palmeira",
+		"codigoente" : 137
+	},
+	{
+		"jurisdicionadoid" : 715,
+		"jurisdicionadonome" : "Prefeitura Municipal de Nova Palmeira",
+		"codigoente" : 137
+	},
+	{
+		"jurisdicionadoid" : 150,
+		"jurisdicionadonome" : "C�mara Municipal de Olho d� �gua",
+		"codigoente" : 138
+	},
+	{
+		"jurisdicionadoid" : 716,
+		"jurisdicionadonome" : "Prefeitura Municipal de Olho d� �gua",
+		"codigoente" : 138
+	},
+	{
+		"jurisdicionadoid" : 151,
+		"jurisdicionadonome" : "C�mara Municipal de Oliv�dos",
+		"codigoente" : 139
+	},
+	{
+		"jurisdicionadoid" : 717,
+		"jurisdicionadonome" : "Prefeitura Municipal de Oliv�dos",
+		"codigoente" : 139
+	},
+	{
+		"jurisdicionadoid" : 152,
+		"jurisdicionadonome" : "C�mara Municipal de Ouro Velho",
+		"codigoente" : 140
+	},
+	{
+		"jurisdicionadoid" : 50894,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Ouro Velho",
+		"codigoente" : 140
+	},
+	{
+		"jurisdicionadoid" : 41739,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Ouro Velho",
+		"codigoente" : 140
+	},
+	{
+		"jurisdicionadoid" : 718,
+		"jurisdicionadonome" : "Prefeitura Municipal de Ouro Velho",
+		"codigoente" : 140
+	},
+	{
+		"jurisdicionadoid" : 2,
+		"jurisdicionadonome" : "A UNI�O - Superintend�ncia de Imprensa e Editora",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 5,
+		"jurisdicionadonome" : "Ag�ncia de Regula��o do Estado da Para�ba - ARPB",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 7,
+		"jurisdicionadonome" : "Ag�ncia Estadual de Vigil�ncia Sanit�ria",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 8,
+		"jurisdicionadonome" : "Ag�ncia Executiva de Gest�o das �guas do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 10,
+		"jurisdicionadonome" : "Assembleia Legislativa",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 65987,
+		"jurisdicionadonome" : "Autarquia de Prote��o e Defesa do Consumidor - PROCON-PB",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 15,
+		"jurisdicionadonome" : "Banco do Estado da Para�ba - Cr�dito Imobili�rio S\/A",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 244,
+		"jurisdicionadonome" : "Casa Civil do Governador",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 467,
+		"jurisdicionadonome" : "Casa Militar do Governador",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 250,
+		"jurisdicionadonome" : "Companhia de �gua e Esgotos do Estado",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 251,
+		"jurisdicionadonome" : "Companhia de Desenvolvimento de Recursos Minerais da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 252,
+		"jurisdicionadonome" : "Companhia de Desenvolvimento do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 255,
+		"jurisdicionadonome" : "Companhia de Processamento de Dados da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 256,
+		"jurisdicionadonome" : "Companhia Docas da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 258,
+		"jurisdicionadonome" : "Companhia Estadual de Habita��o Popular",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 260,
+		"jurisdicionadonome" : "Companhia Paraibana de G�s",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 66957,
+		"jurisdicionadonome" : "Complexo de Pediatria Arlinda Marques",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 277,
+		"jurisdicionadonome" : "Controladoria Geral do Estado",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 4487,
+		"jurisdicionadonome" : "Corpo de Bombeiros Militar",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 280,
+		"jurisdicionadonome" : "Defensoria P�blica do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 283,
+		"jurisdicionadonome" : "Departamento de Estradas de Rodagem",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 284,
+		"jurisdicionadonome" : "Departamento Estadual de Tr�nsito",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 287,
+		"jurisdicionadonome" : "Empresa de Assist�ncia T�cnica e Extens�o Rural",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 288,
+		"jurisdicionadonome" : "Empresa Estadual de Pesquisa Agropecu�ria da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 290,
+		"jurisdicionadonome" : "Empresa Paraibana de Abastecimento e Servi�os Agr�colas",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 129968,
+		"jurisdicionadonome" : "Empresa Paraibana de Comunica��o",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 132998,
+		"jurisdicionadonome" : "Empresa Paraibana de Pesquisa, Extens�o Rural e Regulariza��o Fundi�ria - EMPAER",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 291,
+		"jurisdicionadonome" : "Empresa Paraibana de Turismo S\/A",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 122989,
+		"jurisdicionadonome" : "Empresa R�dio Tabajara da Para�ba S\/A",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 292,
+		"jurisdicionadonome" : "Empresa R�dio Tabajara da Para�ba S\/A (Em Liquida��o)",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 293,
+		"jurisdicionadonome" : "Encargos Gerais da Secretaria da Finan�as",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 294,
+		"jurisdicionadonome" : "Encargos Gerais do Estado",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 133159,
+		"jurisdicionadonome" : "Encargos Gerais do Estado Supervis�o Sobre a Secretaria de Estado da Fazenda",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 296,
+		"jurisdicionadonome" : "Escola de Servi�o P�blico do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 303,
+		"jurisdicionadonome" : "Funda��o Casa de Jos� Am�rico",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 304,
+		"jurisdicionadonome" : "Funda��o Casa do Estudante do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 306,
+		"jurisdicionadonome" : "Funda��o Centro Integrado de Apoio ao Portador de Defici�ncia",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 308,
+		"jurisdicionadonome" : "Funda��o de A��o Comunit�ria",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 310,
+		"jurisdicionadonome" : "Funda��o de Apoio � Pesquisa do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 317,
+		"jurisdicionadonome" : "Funda��o Ernani S�tyro",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 318,
+		"jurisdicionadonome" : "Funda��o Espa�o Cultural",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 316,
+		"jurisdicionadonome" : "Funda��o Estadual do Bem Estar do Menor Alice de Almeida",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 148490,
+		"jurisdicionadonome" : "Funda��o Paraibana de Gest�o em Sa�de ? PB Sa�de",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 3254,
+		"jurisdicionadonome" : "Fundo de Apoio ao Desenvolvimento da Administra��o Tribut�ria - FADAT",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 335,
+		"jurisdicionadonome" : "Fundo de Apoio ao Desenvolvimento Industrial da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 39573,
+		"jurisdicionadonome" : "Fundo de Apoio ao Esporte e Lazer",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 139228,
+		"jurisdicionadonome" : "Fundo de Apoio ao Registro das Pessoas Naturais - FARPEN-PB",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 115596,
+		"jurisdicionadonome" : "Fundo de Apoio �s A��es Cidad�s",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 340,
+		"jurisdicionadonome" : "Fundo de Combate e Erradica��o da Pobreza",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 341,
+		"jurisdicionadonome" : "Fundo de Desenvolvimento Agropecu�rio da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 344,
+		"jurisdicionadonome" : "Fundo de Desenvolvimento do Estado",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 345,
+		"jurisdicionadonome" : "Fundo de Fiscaliza��o Or�ament�ria e Financeira Municipal",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 346,
+		"jurisdicionadonome" : "Fundo de Incentivo � Cultura Augusto dos Anjos",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 21706,
+		"jurisdicionadonome" : "Fundo de Moderniza��o e Reaparelhamento da PGE",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 351,
+		"jurisdicionadonome" : "Fundo de Recupera��o dos Presidi�rios",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 84159,
+		"jurisdicionadonome" : "Fundo do Centro de Conven��es de Jo�o Pessoa",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 354,
+		"jurisdicionadonome" : "Fundo Especial da Defensoria P�blica",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 97560,
+		"jurisdicionadonome" : "Fundo Especial de Defesa do Consumidor do Minist�rio P�blico do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 355,
+		"jurisdicionadonome" : "Fundo Especial de Desenv. Recursos Humanos da ESPEP",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 53408,
+		"jurisdicionadonome" : "Fundo Especial de Prote��o dos Bens, Valores e Interesses Difusos",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 357,
+		"jurisdicionadonome" : "Fundo Especial de Seguran�a P�blica",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 358,
+		"jurisdicionadonome" : "Fundo Especial do Corpo de Bombeiros",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 359,
+		"jurisdicionadonome" : "Fundo Especial do Minist�rio P�blico",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 360,
+		"jurisdicionadonome" : "Fundo Especial do Poder Judici�rio",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 361,
+		"jurisdicionadonome" : "Fundo Estadual da Crian�a  e do Adolescente",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 17433,
+		"jurisdicionadonome" : "Fundo Estadual de Apoio ao Empreendedorismo",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 362,
+		"jurisdicionadonome" : "Fundo Estadual de Assist�ncia Social",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 363,
+		"jurisdicionadonome" : "Fundo Estadual de Ci�ncia e Tecnologia",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 364,
+		"jurisdicionadonome" : "Fundo Estadual de Defesa dos Direitos do Consumidor",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 110323,
+		"jurisdicionadonome" : "Fundo Estadual de Equil�brio Fiscal - FEEF",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 12745,
+		"jurisdicionadonome" : "Fundo Estadual de Habita��o e Regulariza��o Fundi�ria de Interesse Social",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 365,
+		"jurisdicionadonome" : "Fundo Estadual de Prote��o do Meio Ambiente",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 366,
+		"jurisdicionadonome" : "Fundo Estadual de Recursos H�dricos",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 133723,
+		"jurisdicionadonome" : "Fundo Estadual do Trabalho do Estado da Para�ba - FET\/PB",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 368,
+		"jurisdicionadonome" : "Fundo Industrializa��o do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 466,
+		"jurisdicionadonome" : "Gabinete do Vice-Governador",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 83551,
+		"jurisdicionadonome" : "Ger�ncia Executiva da Defesa Civil",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 468,
+		"jurisdicionadonome" : "Governo do Estado",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 42459,
+		"jurisdicionadonome" : "Hospital de Emerg�ncia e Trauma de Campina Grande - Dom Lu�s Gonzaga Fernandes",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 529,
+		"jurisdicionadonome" : "Instituto de Assist�ncia � Sa�de do Servidor - IASS",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 485,
+		"jurisdicionadonome" : "Instituto de Desenvolvimento Municipal e Estadual",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 486,
+		"jurisdicionadonome" : "Instituto de Metrologia e Qualidade Industrial da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 549,
+		"jurisdicionadonome" : "Instituto de Terras e Planejamento Agr�cola da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 550,
+		"jurisdicionadonome" : "Instituto do Patrim�nio Hist�rico e Art�stico da Para�ba - IPHAEP",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 552,
+		"jurisdicionadonome" : "Instituto Hospitalar General Edson Ramalho",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 559,
+		"jurisdicionadonome" : "Junta Comercial do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 565,
+		"jurisdicionadonome" : "Laborat�rio Industrial Farmac�utico do Estado da Para�ba S\/A",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 568,
+		"jurisdicionadonome" : "Loteria do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 575,
+		"jurisdicionadonome" : "Minist�rio P�blico",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 124239,
+		"jurisdicionadonome" : "Outros",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 578,
+		"jurisdicionadonome" : "Para�ba Previd�ncia",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 579,
+		"jurisdicionadonome" : "PB-TUR Hot�is S\/A",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 149052,
+		"jurisdicionadonome" : "Pol�cia Civil do Estado da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 585,
+		"jurisdicionadonome" : "Pol�cia Militar da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 811,
+		"jurisdicionadonome" : "Procuradoria Geral de Justi�a",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 812,
+		"jurisdicionadonome" : "Procuradoria Geral do Estado",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 815,
+		"jurisdicionadonome" : "Projeto Cooperar",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 816,
+		"jurisdicionadonome" : "R�dio Tabajara - Superintend�ncia de Radiodifus�o",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 817,
+		"jurisdicionadonome" : "Secretaria de Estado da Administra��o",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 15671,
+		"jurisdicionadonome" : "Secretaria de Estado da Administra��o Penitenciaria",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 842,
+		"jurisdicionadonome" : "Secretaria de Estado da Agricultura Familiar e do Desenvolvimento do Semi�rido",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 115737,
+		"jurisdicionadonome" : "Secretaria de Estado da Articula��o Pol�tica",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 840,
+		"jurisdicionadonome" : "Secretaria de Estado da Ci�ncia e Tecnologia e do Meio Ambiente",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 15674,
+		"jurisdicionadonome" : "Secretaria de Estado da Cultura",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 15670,
+		"jurisdicionadonome" : "Secretaria de Estado da Educa��o",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 841,
+		"jurisdicionadonome" : "Secretaria de Estado da Educa��o e Cultura",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 129470,
+		"jurisdicionadonome" : "Secretaria de Estado da Educa��o e da Ci�ncia e Tecnologia",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 23499,
+		"jurisdicionadonome" : "Secretaria de Estado da Fazenda",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 825,
+		"jurisdicionadonome" : "Secretaria de Estado da Infraestrutura",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 126789,
+		"jurisdicionadonome" : "Secretaria de Estado da Infraestrutura, dos Recursos H�dricos e do Meio Ambiente - SEIRHMA",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 836,
+		"jurisdicionadonome" : "Secretaria de Estado da Juventude Esporte e Lazer",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 15672,
+		"jurisdicionadonome" : "Secretaria de Estado da Mulher e da Diversidade Humana",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 855,
+		"jurisdicionadonome" : "Secretaria de Estado da Receita",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 828,
+		"jurisdicionadonome" : "Secretaria de Estado da Sa�de",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 843,
+		"jurisdicionadonome" : "Secretaria de Estado da Seguran�a e da Defesa Social",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 844,
+		"jurisdicionadonome" : "Secretaria de Estado das Finan�as",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 845,
+		"jurisdicionadonome" : "Secretaria de Estado de Comunica��o Institucional",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 71661,
+		"jurisdicionadonome" : "Secretaria de Estado de Representa��o Institucional",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 831,
+		"jurisdicionadonome" : "Secretaria de Estado do Acompanhamento da A��o Governamental",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 847,
+		"jurisdicionadonome" : "Secretaria de Estado do Desenvolvimento da Agropecuaria e da Pesca",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 839,
+		"jurisdicionadonome" : "Secretaria de Estado do Desenvolvimento e da Articula��o Municipal",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 849,
+		"jurisdicionadonome" : "Secretaria de Estado do Desenvolvimento Humano",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 861,
+		"jurisdicionadonome" : "Secretaria de Estado do Planejamento, Or�amento e Gest�o",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 850,
+		"jurisdicionadonome" : "Secretaria de Estado do Turismo e do Desenvolvimento Econ�mico",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 15673,
+		"jurisdicionadonome" : "Secretaria de Estado dos Recursos H�dricos, do Meio Ambiente e da Ci�ncia e Tecnologia",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 125783,
+		"jurisdicionadonome" : "Secretaria Executiva de Gest�o da Rede de Unidades de Sa�de",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 877,
+		"jurisdicionadonome" : "Superintend�ncia de Administra��o do Meio Ambiente",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 125785,
+		"jurisdicionadonome" : "Superintend�ncia de Coordena��o e Supervis�o de Contratos de Gest�o - SCSCG",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 878,
+		"jurisdicionadonome" : "Superintend�ncia de Obras do Plano de Desenv. do Estado",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 886,
+		"jurisdicionadonome" : "Terceiros",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 888,
+		"jurisdicionadonome" : "Tribunal de Contas",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 897,
+		"jurisdicionadonome" : "Tribunal de Justi�a",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 900,
+		"jurisdicionadonome" : "Universidade Estadual da Para�ba",
+		"codigoente" : 141
+	},
+	{
+		"jurisdicionadoid" : 153,
+		"jurisdicionadonome" : "C�mara Municipal de Parari",
+		"codigoente" : 142
+	},
+	{
+		"jurisdicionadoid" : 719,
+		"jurisdicionadonome" : "Prefeitura Municipal de Parari",
+		"codigoente" : 142
+	},
+	{
+		"jurisdicionadoid" : 154,
+		"jurisdicionadonome" : "C�mara Municipal de Passagem",
+		"codigoente" : 143
+	},
+	{
+		"jurisdicionadoid" : 720,
+		"jurisdicionadonome" : "Prefeitura Municipal de Passagem",
+		"codigoente" : 143
+	},
+	{
+		"jurisdicionadoid" : 155,
+		"jurisdicionadonome" : "C�mara Municipal de Patos",
+		"codigoente" : 144
+	},
+	{
+		"jurisdicionadoid" : 112947,
+		"jurisdicionadonome" : "Funda��o Cultural do Munic�pio de Patos",
+		"codigoente" : 144
+	},
+	{
+		"jurisdicionadoid" : 137176,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social - FMAS",
+		"codigoente" : 144
+	},
+	{
+		"jurisdicionadoid" : 137174,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Patos",
+		"codigoente" : 144
+	},
+	{
+		"jurisdicionadoid" : 548,
+		"jurisdicionadonome" : "Instituto de Seguridade Social do Municipio de Patos",
+		"codigoente" : 144
+	},
+	{
+		"jurisdicionadoid" : 721,
+		"jurisdicionadonome" : "Prefeitura Municipal de Patos",
+		"codigoente" : 144
+	},
+	{
+		"jurisdicionadoid" : 884,
+		"jurisdicionadonome" : "Superintend�ncia de Tr�nsito e Transporte do Munic�pio de Patos",
+		"codigoente" : 144
+	},
+	{
+		"jurisdicionadoid" : 156,
+		"jurisdicionadonome" : "C�mara Municipal de Paulista",
+		"codigoente" : 145
+	},
+	{
+		"jurisdicionadoid" : 114965,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Paulista",
+		"codigoente" : 145
+	},
+	{
+		"jurisdicionadoid" : 114966,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Paulista",
+		"codigoente" : 145
+	},
+	{
+		"jurisdicionadoid" : 528,
+		"jurisdicionadonome" : "Instituto de Previd�ncia de Paulista",
+		"codigoente" : 145
+	},
+	{
+		"jurisdicionadoid" : 722,
+		"jurisdicionadonome" : "Prefeitura Municipal de Paulista",
+		"codigoente" : 145
+	},
+	{
+		"jurisdicionadoid" : 157,
+		"jurisdicionadonome" : "C�mara Municipal de Pedra Branca",
+		"codigoente" : 146
+	},
+	{
+		"jurisdicionadoid" : 723,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pedra Branca",
+		"codigoente" : 146
+	},
+	{
+		"jurisdicionadoid" : 158,
+		"jurisdicionadonome" : "C�mara Municipal de Pedra Lavrada",
+		"codigoente" : 147
+	},
+	{
+		"jurisdicionadoid" : 34413,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Pedra Lavrada",
+		"codigoente" : 147
+	},
+	{
+		"jurisdicionadoid" : 12695,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Pedra Lavrada",
+		"codigoente" : 147
+	},
+	{
+		"jurisdicionadoid" : 506,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Pub. Mun. de Pedra Lavrada",
+		"codigoente" : 147
+	},
+	{
+		"jurisdicionadoid" : 724,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pedra Lavrada",
+		"codigoente" : 147
+	},
+	{
+		"jurisdicionadoid" : 159,
+		"jurisdicionadonome" : "C�mara Municipal de Pedras de Fogo",
+		"codigoente" : 148
+	},
+	{
+		"jurisdicionadoid" : 11893,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Pedras de Fogo",
+		"codigoente" : 148
+	},
+	{
+		"jurisdicionadoid" : 432,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Pedras de Fogo",
+		"codigoente" : 148
+	},
+	{
+		"jurisdicionadoid" : 523,
+		"jurisdicionadonome" : "Instituto de Prev. Municipal de Pedras de Fogo",
+		"codigoente" : 148
+	},
+	{
+		"jurisdicionadoid" : 725,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pedras de Fogo",
+		"codigoente" : 148
+	},
+	{
+		"jurisdicionadoid" : 160,
+		"jurisdicionadonome" : "C�mara Municipal de Pedro R�gis",
+		"codigoente" : 149
+	},
+	{
+		"jurisdicionadoid" : 16367,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Pedro R�gis",
+		"codigoente" : 149
+	},
+	{
+		"jurisdicionadoid" : 726,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pedro R�gis",
+		"codigoente" : 149
+	},
+	{
+		"jurisdicionadoid" : 161,
+		"jurisdicionadonome" : "C�mara Municipal de Pianc�",
+		"codigoente" : 151
+	},
+	{
+		"jurisdicionadoid" : 727,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pianc�",
+		"codigoente" : 151
+	},
+	{
+		"jurisdicionadoid" : 162,
+		"jurisdicionadonome" : "C�mara Municipal de Picu�",
+		"codigoente" : 153
+	},
+	{
+		"jurisdicionadoid" : 524,
+		"jurisdicionadonome" : "Instituto de Prev. Social dos Servidores da Pref. de Picu�",
+		"codigoente" : 153
+	},
+	{
+		"jurisdicionadoid" : 728,
+		"jurisdicionadonome" : "Prefeitura Municipal de Picu�",
+		"codigoente" : 153
+	},
+	{
+		"jurisdicionadoid" : 163,
+		"jurisdicionadonome" : "C�mara Municipal de Pilar",
+		"codigoente" : 154
+	},
+	{
+		"jurisdicionadoid" : 15989,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Pilar",
+		"codigoente" : 154
+	},
+	{
+		"jurisdicionadoid" : 11953,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Pilar",
+		"codigoente" : 154
+	},
+	{
+		"jurisdicionadoid" : 729,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pilar",
+		"codigoente" : 154
+	},
+	{
+		"jurisdicionadoid" : 164,
+		"jurisdicionadonome" : "C�mara Municipal de Pil�es",
+		"codigoente" : 155
+	},
+	{
+		"jurisdicionadoid" : 518,
+		"jurisdicionadonome" : "Instituto de Prev. e Assist�ncia do Munic�pio de Pil�es",
+		"codigoente" : 155
+	},
+	{
+		"jurisdicionadoid" : 730,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pil�es",
+		"codigoente" : 155
+	},
+	{
+		"jurisdicionadoid" : 165,
+		"jurisdicionadonome" : "C�mara Municipal de Pil�ezinhos",
+		"codigoente" : 156
+	},
+	{
+		"jurisdicionadoid" : 494,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. do Mun. de Pil�ezinhos",
+		"codigoente" : 156
+	},
+	{
+		"jurisdicionadoid" : 731,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pil�ezinhos",
+		"codigoente" : 156
+	},
+	{
+		"jurisdicionadoid" : 166,
+		"jurisdicionadonome" : "C�mara Municipal de Pirpirituba",
+		"codigoente" : 158
+	},
+	{
+		"jurisdicionadoid" : 540,
+		"jurisdicionadonome" : "Instituto de Previd�ncia Municipal de Pirpirituba",
+		"codigoente" : 158
+	},
+	{
+		"jurisdicionadoid" : 732,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pirpirituba",
+		"codigoente" : 158
+	},
+	{
+		"jurisdicionadoid" : 167,
+		"jurisdicionadonome" : "C�mara Municipal de Pitimb�",
+		"codigoente" : 159
+	},
+	{
+		"jurisdicionadoid" : 25362,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Pitimbu",
+		"codigoente" : 159
+	},
+	{
+		"jurisdicionadoid" : 11870,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Pitimbu",
+		"codigoente" : 159
+	},
+	{
+		"jurisdicionadoid" : 733,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pitimbu",
+		"codigoente" : 159
+	},
+	{
+		"jurisdicionadoid" : 872,
+		"jurisdicionadonome" : "Servi�o Auton�mo de �gua e Esgoto de Pitimb�",
+		"codigoente" : 159
+	},
+	{
+		"jurisdicionadoid" : 168,
+		"jurisdicionadonome" : "C�mara Municipal de Pocinhos",
+		"codigoente" : 161
+	},
+	{
+		"jurisdicionadoid" : 436,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Pocinhos",
+		"codigoente" : 161
+	},
+	{
+		"jurisdicionadoid" : 734,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pocinhos",
+		"codigoente" : 161
+	},
+	{
+		"jurisdicionadoid" : 169,
+		"jurisdicionadonome" : "C�mara Municipal de Po�o Dantas",
+		"codigoente" : 162
+	},
+	{
+		"jurisdicionadoid" : 557,
+		"jurisdicionadonome" : "Instituto Po�odantense de Previd�ncia Municipal",
+		"codigoente" : 162
+	},
+	{
+		"jurisdicionadoid" : 735,
+		"jurisdicionadonome" : "Prefeitura Municipal de Po�o Dantas",
+		"codigoente" : 162
+	},
+	{
+		"jurisdicionadoid" : 170,
+		"jurisdicionadonome" : "C�mara Municipal de Po�o de Jos� de Moura",
+		"codigoente" : 163
+	},
+	{
+		"jurisdicionadoid" : 24148,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Po�o de Jos� de Moura",
+		"codigoente" : 163
+	},
+	{
+		"jurisdicionadoid" : 504,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Pub. de Po�o Jos� de Moura",
+		"codigoente" : 163
+	},
+	{
+		"jurisdicionadoid" : 736,
+		"jurisdicionadonome" : "Prefeitura Municipal de Po�o de Jos� de Moura",
+		"codigoente" : 163
+	},
+	{
+		"jurisdicionadoid" : 171,
+		"jurisdicionadonome" : "C�mara Municipal de Pombal",
+		"codigoente" : 164
+	},
+	{
+		"jurisdicionadoid" : 4051,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Pombal",
+		"codigoente" : 164
+	},
+	{
+		"jurisdicionadoid" : 737,
+		"jurisdicionadonome" : "Prefeitura Municipal de Pombal",
+		"codigoente" : 164
+	},
+	{
+		"jurisdicionadoid" : 172,
+		"jurisdicionadonome" : "C�mara Municipal de Prata",
+		"codigoente" : 165
+	},
+	{
+		"jurisdicionadoid" : 23639,
+		"jurisdicionadonome" : "Fundo Municipal de Educa��o de Prata",
+		"codigoente" : 165
+	},
+	{
+		"jurisdicionadoid" : 11831,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de do Munic�pio de Prata",
+		"codigoente" : 165
+	},
+	{
+		"jurisdicionadoid" : 738,
+		"jurisdicionadonome" : "Prefeitura Municipal de Prata",
+		"codigoente" : 165
+	},
+	{
+		"jurisdicionadoid" : 173,
+		"jurisdicionadonome" : "C�mara Municipal de Princesa Isabel",
+		"codigoente" : 166
+	},
+	{
+		"jurisdicionadoid" : 509,
+		"jurisdicionadonome" : "Instituto de Prev. dos Servidores de Princesa Isabel",
+		"codigoente" : 166
+	},
+	{
+		"jurisdicionadoid" : 739,
+		"jurisdicionadonome" : "Prefeitura Municipal de Princesa Isabel",
+		"codigoente" : 166
+	},
+	{
+		"jurisdicionadoid" : 174,
+		"jurisdicionadonome" : "C�mara Municipal de Puxinan�",
+		"codigoente" : 167
+	},
+	{
+		"jurisdicionadoid" : 11882,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Puxinan�",
+		"codigoente" : 167
+	},
+	{
+		"jurisdicionadoid" : 740,
+		"jurisdicionadonome" : "Prefeitura Municipal de Puxinan�",
+		"codigoente" : 167
+	},
+	{
+		"jurisdicionadoid" : 175,
+		"jurisdicionadonome" : "C�mara Municipal de Queimadas",
+		"codigoente" : 168
+	},
+	{
+		"jurisdicionadoid" : 541,
+		"jurisdicionadonome" : "Instituto de Previd�ncia Municipal de Queimadas",
+		"codigoente" : 168
+	},
+	{
+		"jurisdicionadoid" : 741,
+		"jurisdicionadonome" : "Prefeitura Municipal de Queimadas",
+		"codigoente" : 168
+	},
+	{
+		"jurisdicionadoid" : 113211,
+		"jurisdicionadonome" : "Superintend�ncia de Tr�nsito e Transportes de Queimadas - STTRANS",
+		"codigoente" : 168
+	},
+	{
+		"jurisdicionadoid" : 176,
+		"jurisdicionadonome" : "C�mara Municipal de Quixaba",
+		"codigoente" : 169
+	},
+	{
+		"jurisdicionadoid" : 15327,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Quixaba",
+		"codigoente" : 169
+	},
+	{
+		"jurisdicionadoid" : 742,
+		"jurisdicionadonome" : "Prefeitura Municipal de Quixaba",
+		"codigoente" : 169
+	},
+	{
+		"jurisdicionadoid" : 177,
+		"jurisdicionadonome" : "C�mara Municipal de Rem�gio",
+		"codigoente" : 170
+	},
+	{
+		"jurisdicionadoid" : 495,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. do Mun. de Rem�gio",
+		"codigoente" : 170
+	},
+	{
+		"jurisdicionadoid" : 743,
+		"jurisdicionadonome" : "Prefeitura Municipal de Rem�gio",
+		"codigoente" : 170
+	},
+	{
+		"jurisdicionadoid" : 178,
+		"jurisdicionadonome" : "C�mara Municipal de Riach�o",
+		"codigoente" : 171
+	},
+	{
+		"jurisdicionadoid" : 114957,
+		"jurisdicionadonome" : "Fundo Municipal de Assistencia Social de Riachao",
+		"codigoente" : 171
+	},
+	{
+		"jurisdicionadoid" : 114955,
+		"jurisdicionadonome" : "Fundo Municipal de Saude de Riachao",
+		"codigoente" : 171
+	},
+	{
+		"jurisdicionadoid" : 480,
+		"jurisdicionadonome" : "Inst. Prev. Assist�ncia Social de Riach�o",
+		"codigoente" : 171
+	},
+	{
+		"jurisdicionadoid" : 744,
+		"jurisdicionadonome" : "Prefeitura Municipal de Riach�o",
+		"codigoente" : 171
+	},
+	{
+		"jurisdicionadoid" : 179,
+		"jurisdicionadonome" : "C�mara Municipal de Riach�o do Bacamarte",
+		"codigoente" : 172
+	},
+	{
+		"jurisdicionadoid" : 14308,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Riach�o do Bacamarte",
+		"codigoente" : 172
+	},
+	{
+		"jurisdicionadoid" : 745,
+		"jurisdicionadonome" : "Prefeitura Municipal de Riach�o do Bacamarte",
+		"codigoente" : 172
+	},
+	{
+		"jurisdicionadoid" : 180,
+		"jurisdicionadonome" : "C�mara Municipal de Riach�o do Po�o",
+		"codigoente" : 173
+	},
+	{
+		"jurisdicionadoid" : 746,
+		"jurisdicionadonome" : "Prefeitura Municipal de Riach�o do Po�o",
+		"codigoente" : 173
+	},
+	{
+		"jurisdicionadoid" : 181,
+		"jurisdicionadonome" : "C�mara Municipal de Riacho de Santo Ant�nio",
+		"codigoente" : 174
+	},
+	{
+		"jurisdicionadoid" : 747,
+		"jurisdicionadonome" : "Prefeitura Municipal de Riacho de Santo Ant�nio",
+		"codigoente" : 174
+	},
+	{
+		"jurisdicionadoid" : 182,
+		"jurisdicionadonome" : "C�mara Municipal de Riacho dos Cavalos",
+		"codigoente" : 175
+	},
+	{
+		"jurisdicionadoid" : 748,
+		"jurisdicionadonome" : "Prefeitura Municipal de Riacho dos Cavalos",
+		"codigoente" : 175
+	},
+	{
+		"jurisdicionadoid" : 183,
+		"jurisdicionadonome" : "C�mara Municipal de Rio Tinto",
+		"codigoente" : 176
+	},
+	{
+		"jurisdicionadoid" : 114929,
+		"jurisdicionadonome" : "Fundo Municipal de Assistencia Social - Fmas",
+		"codigoente" : 176
+	},
+	{
+		"jurisdicionadoid" : 16341,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Rio Tinto",
+		"codigoente" : 176
+	},
+	{
+		"jurisdicionadoid" : 749,
+		"jurisdicionadonome" : "Prefeitura Municipal de Rio Tinto",
+		"codigoente" : 176
+	},
+	{
+		"jurisdicionadoid" : 184,
+		"jurisdicionadonome" : "C�mara Municipal de Salgadinho",
+		"codigoente" : 177
+	},
+	{
+		"jurisdicionadoid" : 750,
+		"jurisdicionadonome" : "Prefeitura Municipal de Salgadinho",
+		"codigoente" : 177
+	},
+	{
+		"jurisdicionadoid" : 185,
+		"jurisdicionadonome" : "C�mara Municipal de Salgado de S�o F�lix",
+		"codigoente" : 178
+	},
+	{
+		"jurisdicionadoid" : 16196,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Salgado de S�o F�lix",
+		"codigoente" : 178
+	},
+	{
+		"jurisdicionadoid" : 439,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Salgado de S�o F�lix",
+		"codigoente" : 178
+	},
+	{
+		"jurisdicionadoid" : 751,
+		"jurisdicionadonome" : "Prefeitura Municipal de Salgado de S�o F�lix",
+		"codigoente" : 178
+	},
+	{
+		"jurisdicionadoid" : 186,
+		"jurisdicionadonome" : "C�mara Municipal de Santa Cec�lia",
+		"codigoente" : 179
+	},
+	{
+		"jurisdicionadoid" : 369,
+		"jurisdicionadonome" : "Fundo Mun. de Assist. Social de Santa Cec�lia",
+		"codigoente" : 179
+	},
+	{
+		"jurisdicionadoid" : 440,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Santa Cec�lia",
+		"codigoente" : 179
+	},
+	{
+		"jurisdicionadoid" : 752,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santa Cec�lia",
+		"codigoente" : 179
+	},
+	{
+		"jurisdicionadoid" : 187,
+		"jurisdicionadonome" : "C�mara Municipal de Santa Cruz",
+		"codigoente" : 180
+	},
+	{
+		"jurisdicionadoid" : 534,
+		"jurisdicionadonome" : "Instituto de Previd�ncia dos Servidores de Santa Cruz",
+		"codigoente" : 180
+	},
+	{
+		"jurisdicionadoid" : 753,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santa Cruz",
+		"codigoente" : 180
+	},
+	{
+		"jurisdicionadoid" : 188,
+		"jurisdicionadonome" : "C�mara Municipal de Santa Helena",
+		"codigoente" : 181
+	},
+	{
+		"jurisdicionadoid" : 16531,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Santa Helena",
+		"codigoente" : 181
+	},
+	{
+		"jurisdicionadoid" : 511,
+		"jurisdicionadonome" : "Instituto de Prev. e Assist. Municipal Santa Helena",
+		"codigoente" : 181
+	},
+	{
+		"jurisdicionadoid" : 754,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santa Helena",
+		"codigoente" : 181
+	},
+	{
+		"jurisdicionadoid" : 189,
+		"jurisdicionadonome" : "C�mara Municipal de Santa In�s",
+		"codigoente" : 182
+	},
+	{
+		"jurisdicionadoid" : 755,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santa In�s",
+		"codigoente" : 182
+	},
+	{
+		"jurisdicionadoid" : 190,
+		"jurisdicionadonome" : "C�mara Municipal de Santa Luzia",
+		"codigoente" : 183
+	},
+	{
+		"jurisdicionadoid" : 479,
+		"jurisdicionadonome" : "Inst. de Prev. Social dos Servidores P�blicos do Mun. de Santa Luzia",
+		"codigoente" : 183
+	},
+	{
+		"jurisdicionadoid" : 756,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santa Luzia",
+		"codigoente" : 183
+	},
+	{
+		"jurisdicionadoid" : 191,
+		"jurisdicionadonome" : "C�mara Municipal de Santa Rita",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 392,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Santa Rita",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 126873,
+		"jurisdicionadonome" : "FUNDO MUNICIPAL DE DEFESA E DESENVOLVIMENTO AMBIENTAL",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 442,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Santa Rita",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 132752,
+		"jurisdicionadonome" : "FUNDO MUNICIPAL DOS DIREITOS DA CRIAN�A E DO ADOLESCENTE DE SANTA RITA-PB",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 542,
+		"jurisdicionadonome" : "Instituto de Previd�ncia do Munic�pio de Santa Rita",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 126874,
+		"jurisdicionadonome" : "Instituto de Prote��o e Defesa do Consumidor do Munic�pio de Santa Rita- PROCON-SR",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 757,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santa Rita",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 143875,
+		"jurisdicionadonome" : "SEMOB-SR - Superintend�ncia Executiva de Mobilidade Urbana do Munic�pio de Santa Rita",
+		"codigoente" : 184
+	},
+	{
+		"jurisdicionadoid" : 192,
+		"jurisdicionadonome" : "C�mara Municipal de Santa Terezinha",
+		"codigoente" : 185
+	},
+	{
+		"jurisdicionadoid" : 758,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santa Terezinha",
+		"codigoente" : 185
+	},
+	{
+		"jurisdicionadoid" : 193,
+		"jurisdicionadonome" : "C�mara Municipal de Santana de Mangueira",
+		"codigoente" : 187
+	},
+	{
+		"jurisdicionadoid" : 759,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santana de Mangueira",
+		"codigoente" : 187
+	},
+	{
+		"jurisdicionadoid" : 194,
+		"jurisdicionadonome" : "C�mara Municipal de Santana dos Garrotes",
+		"codigoente" : 188
+	},
+	{
+		"jurisdicionadoid" : 760,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santana dos Garrotes",
+		"codigoente" : 188
+	},
+	{
+		"jurisdicionadoid" : 196,
+		"jurisdicionadonome" : "C�mara Municipal de Santo Andr�",
+		"codigoente" : 190
+	},
+	{
+		"jurisdicionadoid" : 11891,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Santo Andr�",
+		"codigoente" : 190
+	},
+	{
+		"jurisdicionadoid" : 762,
+		"jurisdicionadonome" : "Prefeitura Municipal de Santo Andr�",
+		"codigoente" : 190
+	},
+	{
+		"jurisdicionadoid" : 197,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Bentinho",
+		"codigoente" : 191
+	},
+	{
+		"jurisdicionadoid" : 11657,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de S�o Bentinho",
+		"codigoente" : 191
+	},
+	{
+		"jurisdicionadoid" : 763,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Bentinho",
+		"codigoente" : 191
+	},
+	{
+		"jurisdicionadoid" : 198,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Bento",
+		"codigoente" : 192
+	},
+	{
+		"jurisdicionadoid" : 554,
+		"jurisdicionadonome" : "Instituto Municipal de Previd�ncia de S�o Bento",
+		"codigoente" : 192
+	},
+	{
+		"jurisdicionadoid" : 764,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Bento",
+		"codigoente" : 192
+	},
+	{
+		"jurisdicionadoid" : 199,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Domingos",
+		"codigoente" : 193
+	},
+	{
+		"jurisdicionadoid" : 765,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Domingos",
+		"codigoente" : 193
+	},
+	{
+		"jurisdicionadoid" : 200,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Domingos do Cariri",
+		"codigoente" : 194
+	},
+	{
+		"jurisdicionadoid" : 766,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Domingos do Cariri",
+		"codigoente" : 194
+	},
+	{
+		"jurisdicionadoid" : 201,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Francisco",
+		"codigoente" : 195
+	},
+	{
+		"jurisdicionadoid" : 767,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Francisco",
+		"codigoente" : 195
+	},
+	{
+		"jurisdicionadoid" : 202,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jo�o do Cariri",
+		"codigoente" : 196
+	},
+	{
+		"jurisdicionadoid" : 768,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jo�o do Cariri",
+		"codigoente" : 196
+	},
+	{
+		"jurisdicionadoid" : 203,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jo�o do Rio do Peixe",
+		"codigoente" : 197
+	},
+	{
+		"jurisdicionadoid" : 769,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jo�o do Rio do Peixe",
+		"codigoente" : 197
+	},
+	{
+		"jurisdicionadoid" : 204,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jo�o do Tigre",
+		"codigoente" : 198
+	},
+	{
+		"jurisdicionadoid" : 770,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jo�o do Tigre",
+		"codigoente" : 198
+	},
+	{
+		"jurisdicionadoid" : 205,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� da Lagoa Tapada",
+		"codigoente" : 199
+	},
+	{
+		"jurisdicionadoid" : 505,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Pub. do Mun. de S�o Jos� da Lagoa Tapada",
+		"codigoente" : 199
+	},
+	{
+		"jurisdicionadoid" : 771,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� da Lagoa Tapada",
+		"codigoente" : 199
+	},
+	{
+		"jurisdicionadoid" : 206,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� do Brejo do Cruz",
+		"codigoente" : 200
+	},
+	{
+		"jurisdicionadoid" : 115915,
+		"jurisdicionadonome" : "Fundo Municipal de Assistencia Social",
+		"codigoente" : 200
+	},
+	{
+		"jurisdicionadoid" : 772,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� do Brejo do Cruz",
+		"codigoente" : 200
+	},
+	{
+		"jurisdicionadoid" : 207,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� de Caiana",
+		"codigoente" : 201
+	},
+	{
+		"jurisdicionadoid" : 11327,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de S�o Jos� de Caiana",
+		"codigoente" : 201
+	},
+	{
+		"jurisdicionadoid" : 773,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� de Caiana",
+		"codigoente" : 201
+	},
+	{
+		"jurisdicionadoid" : 208,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� de Espinharas",
+		"codigoente" : 202
+	},
+	{
+		"jurisdicionadoid" : 774,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� de Espinharas",
+		"codigoente" : 202
+	},
+	{
+		"jurisdicionadoid" : 209,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� de Piranhas",
+		"codigoente" : 203
+	},
+	{
+		"jurisdicionadoid" : 775,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� de Piranhas",
+		"codigoente" : 203
+	},
+	{
+		"jurisdicionadoid" : 210,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� de Princesa",
+		"codigoente" : 204
+	},
+	{
+		"jurisdicionadoid" : 11324,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de S�o Jos� de Princesa",
+		"codigoente" : 204
+	},
+	{
+		"jurisdicionadoid" : 776,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� de Princesa",
+		"codigoente" : 204
+	},
+	{
+		"jurisdicionadoid" : 211,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� do Bonfim",
+		"codigoente" : 205
+	},
+	{
+		"jurisdicionadoid" : 777,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� do Bonfim",
+		"codigoente" : 205
+	},
+	{
+		"jurisdicionadoid" : 212,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� do Sabugi",
+		"codigoente" : 206
+	},
+	{
+		"jurisdicionadoid" : 37767,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de S�o Jos� do Sabugi",
+		"codigoente" : 206
+	},
+	{
+		"jurisdicionadoid" : 37766,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de do Munic�pio de S�o Jos� do Sabugi",
+		"codigoente" : 206
+	},
+	{
+		"jurisdicionadoid" : 778,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� do Sabugi",
+		"codigoente" : 206
+	},
+	{
+		"jurisdicionadoid" : 213,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� dos Cordeiros",
+		"codigoente" : 207
+	},
+	{
+		"jurisdicionadoid" : 779,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� dos Cordeiros",
+		"codigoente" : 207
+	},
+	{
+		"jurisdicionadoid" : 214,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Jos� dos Ramos",
+		"codigoente" : 208
+	},
+	{
+		"jurisdicionadoid" : 11941,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de S�o Jos� dos Ramos",
+		"codigoente" : 208
+	},
+	{
+		"jurisdicionadoid" : 497,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. do Munic. de S�o Jos� dos Ramos",
+		"codigoente" : 208
+	},
+	{
+		"jurisdicionadoid" : 780,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Jos� dos Ramos",
+		"codigoente" : 208
+	},
+	{
+		"jurisdicionadoid" : 215,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Mamede",
+		"codigoente" : 209
+	},
+	{
+		"jurisdicionadoid" : 781,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Mamede",
+		"codigoente" : 209
+	},
+	{
+		"jurisdicionadoid" : 46034,
+		"jurisdicionadonome" : "Secretaria Municipal de Sa�de de S�o Mamede",
+		"codigoente" : 209
+	},
+	{
+		"jurisdicionadoid" : 216,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Miguel de Taip�",
+		"codigoente" : 210
+	},
+	{
+		"jurisdicionadoid" : 11936,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de S�o Miguel de Taip�",
+		"codigoente" : 210
+	},
+	{
+		"jurisdicionadoid" : 782,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Miguel de Taip�",
+		"codigoente" : 210
+	},
+	{
+		"jurisdicionadoid" : 217,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Sebasti�o de Lagoa de Ro�a",
+		"codigoente" : 211
+	},
+	{
+		"jurisdicionadoid" : 502,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. Mun. de S. S. de Lagoa de Ro�a",
+		"codigoente" : 211
+	},
+	{
+		"jurisdicionadoid" : 783,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Sebasti�o de Lagoa de Ro�a",
+		"codigoente" : 211
+	},
+	{
+		"jurisdicionadoid" : 218,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Sebasti�o do Umbuzeiro",
+		"codigoente" : 212
+	},
+	{
+		"jurisdicionadoid" : 784,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Sebasti�o do Umbuzeiro",
+		"codigoente" : 212
+	},
+	{
+		"jurisdicionadoid" : 219,
+		"jurisdicionadonome" : "C�mara Municipal de S�o Vicente do Serid�",
+		"codigoente" : 213
+	},
+	{
+		"jurisdicionadoid" : 11744,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de S�o Vicente do Serid�",
+		"codigoente" : 213
+	},
+	{
+		"jurisdicionadoid" : 785,
+		"jurisdicionadonome" : "Prefeitura Municipal de S�o Vicente do Serid�",
+		"codigoente" : 213
+	},
+	{
+		"jurisdicionadoid" : 220,
+		"jurisdicionadonome" : "C�mara Municipal de Sap�",
+		"codigoente" : 214
+	},
+	{
+		"jurisdicionadoid" : 347,
+		"jurisdicionadonome" : "Fundo de Previd�ncia de Sap�",
+		"codigoente" : 214
+	},
+	{
+		"jurisdicionadoid" : 16502,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Sap�",
+		"codigoente" : 214
+	},
+	{
+		"jurisdicionadoid" : 449,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Sap�",
+		"codigoente" : 214
+	},
+	{
+		"jurisdicionadoid" : 786,
+		"jurisdicionadonome" : "Prefeitura Municipal de Sap�",
+		"codigoente" : 214
+	},
+	{
+		"jurisdicionadoid" : 221,
+		"jurisdicionadonome" : "C�mara Municipal de Serra Branca",
+		"codigoente" : 215
+	},
+	{
+		"jurisdicionadoid" : 496,
+		"jurisdicionadonome" : "Instituto de Prev. dos Serv. do Mun. de Serra Branca",
+		"codigoente" : 215
+	},
+	{
+		"jurisdicionadoid" : 787,
+		"jurisdicionadonome" : "Prefeitura Municipal de Serra Branca",
+		"codigoente" : 215
+	},
+	{
+		"jurisdicionadoid" : 222,
+		"jurisdicionadonome" : "C�mara Municipal de Serra da Raiz",
+		"codigoente" : 216
+	},
+	{
+		"jurisdicionadoid" : 788,
+		"jurisdicionadonome" : "Prefeitura Municipal de Serra da Raiz",
+		"codigoente" : 216
+	},
+	{
+		"jurisdicionadoid" : 223,
+		"jurisdicionadonome" : "C�mara Municipal de Serra Grande",
+		"codigoente" : 217
+	},
+	{
+		"jurisdicionadoid" : 789,
+		"jurisdicionadonome" : "Prefeitura Municipal de Serra Grande",
+		"codigoente" : 217
+	},
+	{
+		"jurisdicionadoid" : 224,
+		"jurisdicionadonome" : "C�mara Municipal de Serra Redonda",
+		"codigoente" : 218
+	},
+	{
+		"jurisdicionadoid" : 790,
+		"jurisdicionadonome" : "Prefeitura Municipal de Serra Redonda",
+		"codigoente" : 218
+	},
+	{
+		"jurisdicionadoid" : 225,
+		"jurisdicionadonome" : "C�mara Municipal de Serraria",
+		"codigoente" : 219
+	},
+	{
+		"jurisdicionadoid" : 791,
+		"jurisdicionadonome" : "Prefeitura Municipal de Serraria",
+		"codigoente" : 219
+	},
+	{
+		"jurisdicionadoid" : 226,
+		"jurisdicionadonome" : "C�mara Municipal de Sert�ozinho",
+		"codigoente" : 220
+	},
+	{
+		"jurisdicionadoid" : 94794,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Sert�ozinho",
+		"codigoente" : 220
+	},
+	{
+		"jurisdicionadoid" : 492,
+		"jurisdicionadonome" : "Instituto de Prev. do Munic�pio de Sert�ozinho",
+		"codigoente" : 220
+	},
+	{
+		"jurisdicionadoid" : 792,
+		"jurisdicionadonome" : "Prefeitura Municipal de Sert�ozinho",
+		"codigoente" : 220
+	},
+	{
+		"jurisdicionadoid" : 227,
+		"jurisdicionadonome" : "C�mara Municipal de Sobrado",
+		"codigoente" : 221
+	},
+	{
+		"jurisdicionadoid" : 793,
+		"jurisdicionadonome" : "Prefeitura Municipal de Sobrado",
+		"codigoente" : 221
+	},
+	{
+		"jurisdicionadoid" : 228,
+		"jurisdicionadonome" : "C�mara Municipal de Sol�nea",
+		"codigoente" : 222
+	},
+	{
+		"jurisdicionadoid" : 794,
+		"jurisdicionadonome" : "Prefeitura Municipal de Sol�nea",
+		"codigoente" : 222
+	},
+	{
+		"jurisdicionadoid" : 229,
+		"jurisdicionadonome" : "C�mara Municipal de Soledade",
+		"codigoente" : 223
+	},
+	{
+		"jurisdicionadoid" : 117052,
+		"jurisdicionadonome" : "Fundo Municipal de Assistencia Social",
+		"codigoente" : 223
+	},
+	{
+		"jurisdicionadoid" : 117051,
+		"jurisdicionadonome" : "Fundo Municipal de Saude de Soledade",
+		"codigoente" : 223
+	},
+	{
+		"jurisdicionadoid" : 161200,
+		"jurisdicionadonome" : "FUNDO MUNICIPAL DE TR�NSITO - FUMUTRAN",
+		"codigoente" : 223
+	},
+	{
+		"jurisdicionadoid" : 8861,
+		"jurisdicionadonome" : "Instituto de Previd�ncia dos Servidores Municipais de Soledade",
+		"codigoente" : 223
+	},
+	{
+		"jurisdicionadoid" : 795,
+		"jurisdicionadonome" : "Prefeitura Municipal de Soledade",
+		"codigoente" : 223
+	},
+	{
+		"jurisdicionadoid" : 230,
+		"jurisdicionadonome" : "C�mara Municipal de Soss�go",
+		"codigoente" : 224
+	},
+	{
+		"jurisdicionadoid" : 796,
+		"jurisdicionadonome" : "Prefeitura Municipal de Soss�go",
+		"codigoente" : 224
+	},
+	{
+		"jurisdicionadoid" : 231,
+		"jurisdicionadonome" : "C�mara Municipal de Sousa",
+		"codigoente" : 225
+	},
+	{
+		"jurisdicionadoid" : 113133,
+		"jurisdicionadonome" : "DAESA - Departamento de �gua, Esgoto e Saneamento Ambiental de Sousa",
+		"codigoente" : 225
+	},
+	{
+		"jurisdicionadoid" : 9347,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Sousa",
+		"codigoente" : 225
+	},
+	{
+		"jurisdicionadoid" : 797,
+		"jurisdicionadonome" : "Prefeitura Municipal de Sousa",
+		"codigoente" : 225
+	},
+	{
+		"jurisdicionadoid" : 232,
+		"jurisdicionadonome" : "C�mara Municipal de Sum�",
+		"codigoente" : 226
+	},
+	{
+		"jurisdicionadoid" : 537,
+		"jurisdicionadonome" : "Instituto de Previd�ncia e Assist�ncia Social de Sum�",
+		"codigoente" : 226
+	},
+	{
+		"jurisdicionadoid" : 798,
+		"jurisdicionadonome" : "Prefeitura Municipal de Sum�",
+		"codigoente" : 226
+	},
+	{
+		"jurisdicionadoid" : 233,
+		"jurisdicionadonome" : "C�mara Municipal de Tapero�",
+		"codigoente" : 227
+	},
+	{
+		"jurisdicionadoid" : 14130,
+		"jurisdicionadonome" : "Instituto de Previd�ncia do Munic�pio de Tapero�",
+		"codigoente" : 227
+	},
+	{
+		"jurisdicionadoid" : 799,
+		"jurisdicionadonome" : "Prefeitura Municipal de Tapero�",
+		"codigoente" : 227
+	},
+	{
+		"jurisdicionadoid" : 234,
+		"jurisdicionadonome" : "C�mara Municipal de Tavares",
+		"codigoente" : 228
+	},
+	{
+		"jurisdicionadoid" : 800,
+		"jurisdicionadonome" : "Prefeitura Municipal de Tavares",
+		"codigoente" : 228
+	},
+	{
+		"jurisdicionadoid" : 235,
+		"jurisdicionadonome" : "C�mara Municipal de Teixeira",
+		"codigoente" : 229
+	},
+	{
+		"jurisdicionadoid" : 148255,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Teixeira",
+		"codigoente" : 229
+	},
+	{
+		"jurisdicionadoid" : 801,
+		"jurisdicionadonome" : "Prefeitura Municipal de Teixeira",
+		"codigoente" : 229
+	},
+	{
+		"jurisdicionadoid" : 236,
+		"jurisdicionadonome" : "C�mara Municipal de Ten�rio",
+		"codigoente" : 230
+	},
+	{
+		"jurisdicionadoid" : 23855,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Ten�rio",
+		"codigoente" : 230
+	},
+	{
+		"jurisdicionadoid" : 802,
+		"jurisdicionadonome" : "Prefeitura Municipal de Ten�rio",
+		"codigoente" : 230
+	},
+	{
+		"jurisdicionadoid" : 237,
+		"jurisdicionadonome" : "C�mara Municipal de Triunfo",
+		"codigoente" : 231
+	},
+	{
+		"jurisdicionadoid" : 803,
+		"jurisdicionadonome" : "Prefeitura Municipal de Triunfo",
+		"codigoente" : 231
+	},
+	{
+		"jurisdicionadoid" : 238,
+		"jurisdicionadonome" : "C�mara Municipal de Uirauna",
+		"codigoente" : 232
+	},
+	{
+		"jurisdicionadoid" : 12193,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Uira�na",
+		"codigoente" : 232
+	},
+	{
+		"jurisdicionadoid" : 804,
+		"jurisdicionadonome" : "Prefeitura Municipal de Uirauna",
+		"codigoente" : 232
+	},
+	{
+		"jurisdicionadoid" : 239,
+		"jurisdicionadonome" : "C�mara Municipal de Umbuzeiro",
+		"codigoente" : 233
+	},
+	{
+		"jurisdicionadoid" : 397,
+		"jurisdicionadonome" : "Fundo Municipal de Assist�ncia Social de Umbuzeiro",
+		"codigoente" : 233
+	},
+	{
+		"jurisdicionadoid" : 453,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Umbuzeiro",
+		"codigoente" : 233
+	},
+	{
+		"jurisdicionadoid" : 805,
+		"jurisdicionadonome" : "Prefeitura Municipal de Umbuzeiro",
+		"codigoente" : 233
+	},
+	{
+		"jurisdicionadoid" : 240,
+		"jurisdicionadonome" : "C�mara Municipal de V�rzea",
+		"codigoente" : 234
+	},
+	{
+		"jurisdicionadoid" : 806,
+		"jurisdicionadonome" : "Prefeitura Municipal de V�rzea",
+		"codigoente" : 234
+	},
+	{
+		"jurisdicionadoid" : 241,
+		"jurisdicionadonome" : "C�mara Municipal de Vieir�polis",
+		"codigoente" : 235
+	},
+	{
+		"jurisdicionadoid" : 807,
+		"jurisdicionadonome" : "Prefeitura Municipal de Vieir�polis",
+		"codigoente" : 235
+	},
+	{
+		"jurisdicionadoid" : 242,
+		"jurisdicionadonome" : "C�mara Municipal de Vista Serrana",
+		"codigoente" : 236
+	},
+	{
+		"jurisdicionadoid" : 808,
+		"jurisdicionadonome" : "Prefeitura Municipal de Vista Serrana",
+		"codigoente" : 236
+	},
+	{
+		"jurisdicionadoid" : 243,
+		"jurisdicionadonome" : "C�mara Municipal de Zabel�",
+		"codigoente" : 237
+	},
+	{
+		"jurisdicionadoid" : 809,
+		"jurisdicionadonome" : "Prefeitura Municipal de Zabel�",
+		"codigoente" : 237
+	},
+	{
+		"jurisdicionadoid" : 16857,
+		"jurisdicionadonome" : "C�mara Municipal de Tacima",
+		"codigoente" : 241
+	},
+	{
+		"jurisdicionadoid" : 40058,
+		"jurisdicionadonome" : "Fundo Municipal de Sa�de de Tacima",
+		"codigoente" : 241
+	},
+	{
+		"jurisdicionadoid" : 16858,
+		"jurisdicionadonome" : "Prefeitura Municipal de Tacima",
+		"codigoente" : 241
+	},
+	{
+		"jurisdicionadoid" : 16859,
+		"jurisdicionadonome" : "C�mara Municipal de Joca Claudino",
+		"codigoente" : 242
+	},
+	{
+		"jurisdicionadoid" : 16860,
+		"jurisdicionadonome" : "Prefeitura Municipal de Joca Claudino",
+		"codigoente" : 242
+	},
+	{
+		"jurisdicionadoid" : 79022,
+		"jurisdicionadonome" : "CIGRESCOR - Cons�rcio Intermunicipal de Gest�o de Res�duos S�lidos do Cariri Oriental e Regi�o",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 3060,
+		"jurisdicionadonome" : "CISCOR - Cons�rcio Intermunicipal de Sa�de do Cariri Oriental",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 77917,
+		"jurisdicionadonome" : "Cons�rcio de Desenvolvimento Sustent�vel S�o Saru� CDS",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 56823,
+		"jurisdicionadonome" : "Cons�rcio Intermunicipal De Res�duos S�lidos - CONSIRES",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 274,
+		"jurisdicionadonome" : "Cons�rcio Intermunicipal de Sa�de da Regi�o do Vale do Pianc�",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 275,
+		"jurisdicionadonome" : "Cons�rcio Intermunicipal de Sa�de do Cariri Ocidental",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 1014,
+		"jurisdicionadonome" : "Cons�rcio Intermunicipal de Sa�de do Curimata� e Serid� Paraibano",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 16350,
+		"jurisdicionadonome" : "Cons�rcio Intermunicipal de Sa�de dos Munic�pios do Alto Sert�o Paraibano",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 156955,
+		"jurisdicionadonome" : "CONS�RCIO IRM� LUCIANA - CONS�RCIO INTERMUNICIPAL DO SERVI�O SOCIOASSISTENCIAL DE ALTA COMPLEXIDADE",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 12496,
+		"jurisdicionadonome" : "Cons�rcio P�blico de Desenvolvimento Sustent�vel do M�dio Piranha",
+		"codigoente" : 243
+	},
+	{
+		"jurisdicionadoid" : 134399,
+		"jurisdicionadonome" : "Cons�rcio P�blico Intermunicipal de Desenvolvimento Sustent�vel e Inova��o do Estado da Para�ba ? CONDESPB",
+		"codigoente" : 243
+	}
+]}

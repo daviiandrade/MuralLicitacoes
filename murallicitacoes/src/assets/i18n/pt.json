@@ -1,0 +1,12 @@
+{
+  "primeng": {
+      "dayNames": ["Domingo", "Segunda", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "dayNamesShort": ["Dom", "Seg", "Tue", "Wed", "Thu", "Fri", "Sat"],
+      "dayNamesMin": ["D","S","T","Q","Q","S","S"],
+      "monthNames": ["Janeiro","Fevereiro","March","April","May","June","July","August","September","October","November","December"],
+      "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun","Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+      "today": "Hoje",
+      "weekHeader": "Se",
+      "clear":"Limpar"
+  }
+}

@@ -1,0 +1,80 @@
+<div class="meu-container" [style.visibility]="prevista ? 'visible' : 'hidden'">
+  <div>
+    <div class="card">
+      <p-table
+        #dt
+        [columns]="cols"
+        responsiveLayout="scroll"
+        [value]="prevista"
+        [paginator]="true"
+        [rows]="10"
+        [showCurrentPageReport]="false"
+        [rowsPerPageOptions]="[10, 25, 50]"
+      >
+        <ng-template pTemplate="header" let-columns>
+          <div class="mensagem-topo">
+            <div class="alinhamento-botao-topo">
+              <div class="p-d-flex" *ngIf=" totalRegistrosEncontrados() > 0">
+                <button
+                  type="button"
+                  pButton
+                  icon="pi pi-file-excel"
+                  class="excelButton"
+                  (click)="exportExcel()"
+                >
+                  <span class="material-icons-outlined"
+                    >Exportar para Excel <span class="space"></span>
+                  </span>
+                </button>
+              </div>
+            </div>
+
+            <div class="alinhamento-botao-topo">
+              <span class="mensagem-span" id="span-total-resultados"
+                >{{ totalRegistrosEncontrados() }} resultados encontrados.</span
+              >
+            </div>
+          </div>
+        </ng-template>
+        <ng-template pTemplate="body" let-prevista let-columns="columns">
+          <div class="p-card-dados">
+            <div class="p-dados documento">
+              <div class="flex-dados">
+                <div class="flex-item-1-dados">
+                  <p>
+                    <strong>Jurisdicionado: </strong>
+                    {{ prevista.jurisdicionado }}
+                  </p>
+                  <p><strong>Número: </strong> {{ prevista.numero }}</p>
+                  <p><strong>Modalidade: </strong> {{ prevista.modalidade }}</p>
+                  <p class="valor"> <strong>Valor: </strong> {{ getFormattedPrice(prevista.valorEstimado)}} </p>
+                </div>
+
+                <div class="flex-item-1-dados">
+                  <p>
+                    <strong>Data Certame: </strong> {{ prevista.dataCertame }}
+                  </p>
+                  <p>
+                    <strong>Local Certame: </strong> {{ prevista.localCertame }}
+                  </p>
+                  <p>
+                    <strong>Protocolo TCE-PB: </strong>
+                    <a href="{{ prevista.linkProtocoloTCE }}" target="_blank">
+                      {{ prevista.protocoloTCE }}
+                    </a>
+                  </p>
+                  <p><strong>Data Envio: </strong> {{ prevista.dataEnvio }}</p>
+                  <p>
+                    <strong>Objeto: </strong>
+                    {{ substituiCaractereUnicode(prevista.objeto) }}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </ng-template>
+      </p-table>
+    </div>
+  </div>
+
+</div>
